@@ -1,0 +1,9 @@
+com.DefaultCompany.AndroidClassifier.launcher-pngs-0 F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\build\generated\res\pngs\debug
+com.DefaultCompany.AndroidClassifier.launcher-resValues-1 F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\build\generated\res\resValues\debug
+com.DefaultCompany.AndroidClassifier.launcher-rs-2 F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\build\generated\res\rs\debug
+com.DefaultCompany.AndroidClassifier.launcher-mergeDebugResources-3 F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.DefaultCompany.AndroidClassifier.launcher-mergeDebugResources-4 F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.DefaultCompany.AndroidClassifier.launcher-merged_res-5 F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\build\intermediates\merged_res\debug
+com.DefaultCompany.AndroidClassifier.launcher-debug-6 F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\debug\res
+com.DefaultCompany.AndroidClassifier.launcher-main-7 F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\res
+com.DefaultCompany.AndroidClassifier.launcher-packaged_res-8 F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\packaged_res\debug

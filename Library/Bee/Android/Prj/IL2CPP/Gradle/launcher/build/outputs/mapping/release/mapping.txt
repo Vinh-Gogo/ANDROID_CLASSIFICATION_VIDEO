@@ -1,0 +1,276 @@
+# compiler: R8
+# compiler_version: 4.0.52
+# min_api: 23
+# common_typos_disable
+# {"id":"com.android.tools.r8.mapping","version":"2.1"}
+# pg_map_id: fbbfc6c
+# pg_map_hash: SHA-256 fbbfc6cc2e5468bf8dba652719bae351424a5cf8ef5927e250bfaf1279e866df
+bitter.jnibridge.a -> bitter.jnibridge.a:
+    java.lang.Object[] -$$Nest$fgeta(bitter.jnibridge.a) -> a
+      # {"id":"com.android.tools.r8.synthesized"}
+    void -$$Nest$fputb(bitter.jnibridge.a,long) -> b
+      # {"id":"com.android.tools.r8.synthesized"}
+bitter.jnibridge.a$$ExternalSyntheticApiModelOutline0 -> bitter.jnibridge.b:
+# {"id":"sourceFile","fileName":"R8$$SyntheticClass"}
+# {"id":"com.android.tools.r8.synthesized"}
+    java.lang.invoke.MethodHandles$Lookup bitter.jnibridge.a$$InternalSyntheticApiModelOutline$1$42752ee8f7320f7f78c1c4403441487ecd104dd939a1f270d5ebeb391275367a$0.m(java.lang.invoke.MethodHandles$Lookup,java.lang.Class) -> a
+      # {"id":"com.android.tools.r8.synthesized"}
+bitter.jnibridge.a$$ExternalSyntheticApiModelOutline1 -> bitter.jnibridge.c:
+# {"id":"sourceFile","fileName":"R8$$SyntheticClass"}
+# {"id":"com.android.tools.r8.synthesized"}
+    java.lang.invoke.MethodHandle bitter.jnibridge.a$$InternalSyntheticApiModelOutline$1$42752ee8f7320f7f78c1c4403441487ecd104dd939a1f270d5ebeb391275367a$1.m(java.lang.invoke.MethodHandles$Lookup,java.lang.reflect.Method,java.lang.Class) -> a
+      # {"id":"com.android.tools.r8.synthesized"}
+bitter.jnibridge.a$$ExternalSyntheticApiModelOutline2 -> bitter.jnibridge.d:
+# {"id":"sourceFile","fileName":"R8$$SyntheticClass"}
+# {"id":"com.android.tools.r8.synthesized"}
+    java.lang.invoke.MethodHandle bitter.jnibridge.a$$InternalSyntheticApiModelOutline$1$42752ee8f7320f7f78c1c4403441487ecd104dd939a1f270d5ebeb391275367a$2.m(java.lang.invoke.MethodHandle,java.lang.Object) -> a
+      # {"id":"com.android.tools.r8.synthesized"}
+bitter.jnibridge.a$$ExternalSyntheticApiModelOutline3 -> bitter.jnibridge.e:
+# {"id":"sourceFile","fileName":"R8$$SyntheticClass"}
+# {"id":"com.android.tools.r8.synthesized"}
+    java.lang.Object bitter.jnibridge.a$$InternalSyntheticApiModelOutline$1$42752ee8f7320f7f78c1c4403441487ecd104dd939a1f270d5ebeb391275367a$3.m(java.lang.invoke.MethodHandle,java.lang.Object[]) -> a
+      # {"id":"com.android.tools.r8.synthesized"}
+com.google.androidgamesdk.SwappyDisplayManager -> com.google.androidgamesdk.SwappyDisplayManager:
+    android.app.Activity -$$Nest$fgetmActivity(com.google.androidgamesdk.SwappyDisplayManager) -> a
+      # {"id":"com.android.tools.r8.synthesized"}
+com.google.androidgamesdk.b -> com.google.androidgamesdk.b:
+    void <init>(com.google.androidgamesdk.b-IA) -> <init>
+      # {"id":"com.android.tools.r8.synthesized"}
+com.google.androidgamesdk.b-IA -> a.a:
+# {"id":"sourceFile","fileName":"R8$$SyntheticClass"}
+# {"id":"com.android.tools.r8.synthesized"}
+com.google.androidgamesdk.d -> com.google.androidgamesdk.d:
+    void <init>(com.google.androidgamesdk.d-IA) -> <init>
+      # {"id":"com.android.tools.r8.synthesized"}
+com.google.androidgamesdk.d-IA -> a.b:
+# {"id":"sourceFile","fileName":"R8$$SyntheticClass"}
+# {"id":"com.android.tools.r8.synthesized"}
+com.unity3d.player.A -> com.unity3d.player.A:
+    int -$$Nest$fgetd(com.unity3d.player.A) -> a
+      # {"id":"com.android.tools.r8.synthesized"}
+com.unity3d.player.B -> com.unity3d.player.B:
+    long -$$Nest$fgeta(com.unity3d.player.B) -> a
+      # {"id":"com.android.tools.r8.synthesized"}
+    boolean -$$Nest$fgetb(com.unity3d.player.B) -> b
+      # {"id":"com.android.tools.r8.synthesized"}
+    void -$$Nest$fputa(com.unity3d.player.B,long) -> c
+      # {"id":"com.android.tools.r8.synthesized"}
+com.unity3d.player.C0 -> com.unity3d.player.C0:
+    void <init>(com.unity3d.player.UnityPlayer,com.unity3d.player.C0-IA) -> <init>
+      # {"id":"com.android.tools.r8.synthesized"}
+    void -$$Nest$ma(com.unity3d.player.C0,com.unity3d.player.A0) -> a
+      # {"id":"com.android.tools.r8.synthesized"}
+com.unity3d.player.C0-IA -> com.unity3d.player.a1:
+# {"id":"sourceFile","fileName":"R8$$SyntheticClass"}
+# {"id":"com.android.tools.r8.synthesized"}
+com.unity3d.player.D0 -> com.unity3d.player.D0:
+    void <init>(com.unity3d.player.UnityPlayer,com.unity3d.player.D0-IA) -> <init>
+      # {"id":"com.android.tools.r8.synthesized"}
+com.unity3d.player.D0-IA -> com.unity3d.player.b1:
+# {"id":"sourceFile","fileName":"R8$$SyntheticClass"}
+# {"id":"com.android.tools.r8.synthesized"}
+com.unity3d.player.G0 -> com.unity3d.player.G0:
+    void -$$Nest$fputb(com.unity3d.player.G0,boolean) -> a
+      # {"id":"com.android.tools.r8.synthesized"}
+com.unity3d.player.HFPStatus -> com.unity3d.player.HFPStatus:
+    boolean -$$Nest$fgetc(com.unity3d.player.HFPStatus) -> a
+      # {"id":"com.android.tools.r8.synthesized"}
+    android.media.AudioManager -$$Nest$fgetd(com.unity3d.player.HFPStatus) -> b
+      # {"id":"com.android.tools.r8.synthesized"}
+    void -$$Nest$fputf(com.unity3d.player.HFPStatus,int) -> c
+      # {"id":"com.android.tools.r8.synthesized"}
+    void -$$Nest$ma(com.unity3d.player.HFPStatus) -> d
+      # {"id":"com.android.tools.r8.synthesized"}
+com.unity3d.player.MultiWindowSupport$$ExternalSyntheticApiModelOutline0 -> com.unity3d.player.c1:
+# {"id":"sourceFile","fileName":"R8$$SyntheticClass"}
+# {"id":"com.android.tools.r8.synthesized"}
+    boolean com.unity3d.player.MultiWindowSupport$$InternalSyntheticApiModelOutline$1$9a81a94f341d90d3e5b43c52ebb178f91bb2a5fab6ce82488de68f35b94c27cb$0.m(android.app.Activity) -> a
+      # {"id":"com.android.tools.r8.synthesized"}
+com.unity3d.player.NetworkConnectivityNougat -> com.unity3d.player.NetworkConnectivityNougat:
+    void -$$Nest$fputb(com.unity3d.player.NetworkConnectivityNougat,int) -> c
+      # {"id":"com.android.tools.r8.synthesized"}
+com.unity3d.player.NetworkConnectivityNougat$$ExternalSyntheticApiModelOutline0 -> com.unity3d.player.d1:
+# {"id":"sourceFile","fileName":"R8$$SyntheticClass"}
+# {"id":"com.android.tools.r8.synthesized"}
+    void com.unity3d.player.NetworkConnectivityNougat$$InternalSyntheticApiModelOutline$1$d3a51847691a88f8f5467f6480bdef76152f07279801f631abf6388052ea4b73$0.m(android.net.ConnectivityManager,android.net.ConnectivityManager$NetworkCallback) -> a
+      # {"id":"com.android.tools.r8.synthesized"}
+com.unity3d.player.P0 -> com.unity3d.player.P0:
+    com.unity3d.player.UnityPlayer -$$Nest$fgeta(com.unity3d.player.P0) -> a
+      # {"id":"com.android.tools.r8.synthesized"}
+    android.content.Context -$$Nest$fgetb(com.unity3d.player.P0) -> b
+      # {"id":"com.android.tools.r8.synthesized"}
+    com.unity3d.player.O0 -$$Nest$fgetc(com.unity3d.player.P0) -> c
+      # {"id":"com.android.tools.r8.synthesized"}
+    java.util.concurrent.Semaphore -$$Nest$fgetd(com.unity3d.player.P0) -> d
+      # {"id":"com.android.tools.r8.synthesized"}
+    java.util.concurrent.locks.ReentrantLock -$$Nest$fgete(com.unity3d.player.P0) -> e
+      # {"id":"com.android.tools.r8.synthesized"}
+    com.unity3d.player.H0 -$$Nest$fgetf(com.unity3d.player.P0) -> f
+      # {"id":"com.android.tools.r8.synthesized"}
+    boolean -$$Nest$fgeti(com.unity3d.player.P0) -> g
+      # {"id":"com.android.tools.r8.synthesized"}
+    void -$$Nest$fputf(com.unity3d.player.P0,com.unity3d.player.H0) -> h
+      # {"id":"com.android.tools.r8.synthesized"}
+    void -$$Nest$fputg(com.unity3d.player.P0,int) -> i
+      # {"id":"com.android.tools.r8.synthesized"}
+    void -$$Nest$fputi(com.unity3d.player.P0,boolean) -> j
+      # {"id":"com.android.tools.r8.synthesized"}
+com.unity3d.player.PermissionFragment -> com.unity3d.player.PermissionFragment:
+    void -$$Nest$mreportAllDenied(com.unity3d.player.PermissionFragment,java.lang.String[]) -> a
+      # {"id":"com.android.tools.r8.synthesized"}
+com.unity3d.player.ReflectionHelper -> com.unity3d.player.ReflectionHelper:
+    long -$$Nest$sfgetb() -> a
+      # {"id":"com.android.tools.r8.synthesized"}
+    void -$$Nest$smnativeProxyFinalize(long) -> b
+      # {"id":"com.android.tools.r8.synthesized"}
+    java.lang.Object -$$Nest$smnativeProxyInvoke(long,java.lang.String,java.lang.Object[]) -> c
+      # {"id":"com.android.tools.r8.synthesized"}
+    void -$$Nest$smnativeProxyJNIFreeGCHandle(long) -> d
+      # {"id":"com.android.tools.r8.synthesized"}
+    void -$$Nest$smnativeProxyLogJNIInvokeException(long) -> e
+      # {"id":"com.android.tools.r8.synthesized"}
+com.unity3d.player.UnityPlayer -> com.unity3d.player.UnityPlayer:
+    void -$$Nest$mnativeSendSurfaceChangedEvent(com.unity3d.player.UnityPlayer) -> A
+      # {"id":"com.android.tools.r8.synthesized"}
+    void -$$Nest$mnativeSetInputArea(com.unity3d.player.UnityPlayer,int,int,int,int) -> B
+      # {"id":"com.android.tools.r8.synthesized"}
+    void -$$Nest$mnativeSetInputSelection(com.unity3d.player.UnityPlayer,int,int) -> C
+      # {"id":"com.android.tools.r8.synthesized"}
+    void -$$Nest$mnativeSetInputString(com.unity3d.player.UnityPlayer,java.lang.String) -> D
+      # {"id":"com.android.tools.r8.synthesized"}
+    void -$$Nest$mnativeSetKeyboardIsVisible(com.unity3d.player.UnityPlayer,boolean) -> E
+      # {"id":"com.android.tools.r8.synthesized"}
+    void -$$Nest$mnativeSetLaunchURL(com.unity3d.player.UnityPlayer,java.lang.String) -> F
+      # {"id":"com.android.tools.r8.synthesized"}
+    void -$$Nest$mnativeSoftInputCanceled(com.unity3d.player.UnityPlayer) -> G
+      # {"id":"com.android.tools.r8.synthesized"}
+    void -$$Nest$mnativeSoftInputClosed(com.unity3d.player.UnityPlayer) -> H
+      # {"id":"com.android.tools.r8.synthesized"}
+    void -$$Nest$mnativeSoftInputLostFocus(com.unity3d.player.UnityPlayer) -> I
+      # {"id":"com.android.tools.r8.synthesized"}
+    void -$$Nest$mqueueDestroy(com.unity3d.player.UnityPlayer) -> J
+      # {"id":"com.android.tools.r8.synthesized"}
+    void -$$Nest$mshutdown(com.unity3d.player.UnityPlayer) -> K
+      # {"id":"com.android.tools.r8.synthesized"}
+    android.app.Activity -$$Nest$fgetmActivity(com.unity3d.player.UnityPlayer) -> a
+      # {"id":"com.android.tools.r8.synthesized"}
+    android.content.Context -$$Nest$fgetmContext(com.unity3d.player.UnityPlayer) -> b
+      # {"id":"com.android.tools.r8.synthesized"}
+    com.unity3d.player.V -$$Nest$fgetmGlView(com.unity3d.player.UnityPlayer) -> c
+      # {"id":"com.android.tools.r8.synthesized"}
+    int -$$Nest$fgetmInitialScreenOrientation(com.unity3d.player.UnityPlayer) -> d
+      # {"id":"com.android.tools.r8.synthesized"}
+    boolean -$$Nest$fgetmMainDisplayOverride(com.unity3d.player.UnityPlayer) -> e
+      # {"id":"com.android.tools.r8.synthesized"}
+    int -$$Nest$fgetmNaturalOrientation(com.unity3d.player.UnityPlayer) -> f
+      # {"id":"com.android.tools.r8.synthesized"}
+    com.unity3d.player.a.e -$$Nest$fgetm_SplashScreen(com.unity3d.player.UnityPlayer) -> g
+      # {"id":"com.android.tools.r8.synthesized"}
+    com.unity3d.player.IUnityPlayerLifecycleEvents -$$Nest$fgetm_UnityPlayerLifecycleEvents(com.unity3d.player.UnityPlayer) -> h
+      # {"id":"com.android.tools.r8.synthesized"}
+    void -$$Nest$fputmQuitting(com.unity3d.player.UnityPlayer,boolean) -> i
+      # {"id":"com.android.tools.r8.synthesized"}
+    void -$$Nest$fputmVideoPlayerProxy(com.unity3d.player.UnityPlayer,com.unity3d.player.P0) -> j
+      # {"id":"com.android.tools.r8.synthesized"}
+    void -$$Nest$fputm_SplashScreen(com.unity3d.player.UnityPlayer,com.unity3d.player.a.e) -> k
+      # {"id":"com.android.tools.r8.synthesized"}
+    void -$$Nest$mDisableStaticSplashScreen(com.unity3d.player.UnityPlayer) -> l
+      # {"id":"com.android.tools.r8.synthesized"}
+    void -$$Nest$mfinish(com.unity3d.player.UnityPlayer) -> m
+      # {"id":"com.android.tools.r8.synthesized"}
+    boolean -$$Nest$mgetAutoReportFullyDrawnEnabled(com.unity3d.player.UnityPlayer) -> n
+      # {"id":"com.android.tools.r8.synthesized"}
+    boolean -$$Nest$mgetHaveAndroidWindowSupport(com.unity3d.player.UnityPlayer) -> o
+      # {"id":"com.android.tools.r8.synthesized"}
+    boolean -$$Nest$mgetSplashEnabled(com.unity3d.player.UnityPlayer) -> p
+      # {"id":"com.android.tools.r8.synthesized"}
+    void -$$Nest$mnativeFocusChanged(com.unity3d.player.UnityPlayer,boolean) -> q
+      # {"id":"com.android.tools.r8.synthesized"}
+    boolean -$$Nest$mnativeIsAutorotationOn(com.unity3d.player.UnityPlayer) -> r
+      # {"id":"com.android.tools.r8.synthesized"}
+    void -$$Nest$mnativeLowMemory(com.unity3d.player.UnityPlayer) -> s
+      # {"id":"com.android.tools.r8.synthesized"}
+    void -$$Nest$mnativeMuteMasterAudio(com.unity3d.player.UnityPlayer,boolean) -> t
+      # {"id":"com.android.tools.r8.synthesized"}
+    void -$$Nest$mnativeOrientationChanged(com.unity3d.player.UnityPlayer,int,int) -> u
+      # {"id":"com.android.tools.r8.synthesized"}
+    boolean -$$Nest$mnativePause(com.unity3d.player.UnityPlayer) -> v
+      # {"id":"com.android.tools.r8.synthesized"}
+    void -$$Nest$mnativeRecreateGfxState(com.unity3d.player.UnityPlayer,int,android.view.Surface) -> w
+      # {"id":"com.android.tools.r8.synthesized"}
+    boolean -$$Nest$mnativeRender(com.unity3d.player.UnityPlayer) -> x
+      # {"id":"com.android.tools.r8.synthesized"}
+    void -$$Nest$mnativeReportKeyboardConfigChanged(com.unity3d.player.UnityPlayer) -> y
+      # {"id":"com.android.tools.r8.synthesized"}
+    void -$$Nest$mnativeResume(com.unity3d.player.UnityPlayer) -> z
+      # {"id":"com.android.tools.r8.synthesized"}
+com.unity3d.player.V -> com.unity3d.player.V:
+    com.unity3d.player.a -$$Nest$fgeta(com.unity3d.player.V) -> a
+      # {"id":"com.android.tools.r8.synthesized"}
+    com.unity3d.player.UnityPlayer -$$Nest$fgetb(com.unity3d.player.V) -> b
+      # {"id":"com.android.tools.r8.synthesized"}
+    com.unity3d.player.y -$$Nest$fgetc(com.unity3d.player.V) -> c
+      # {"id":"com.android.tools.r8.synthesized"}
+com.unity3d.player.a.a -> b.a:
+com.unity3d.player.a.b -> b.b:
+com.unity3d.player.a.c -> b.c:
+com.unity3d.player.a.d -> b.d:
+com.unity3d.player.a.e -> b.e:
+com.unity3d.player.i -> com.unity3d.player.i:
+    com.google.android.play.core.assetpacks.AssetPackManager -$$Nest$fgeta(com.unity3d.player.i) -> a
+      # {"id":"com.android.tools.r8.synthesized"}
+    java.util.HashSet -$$Nest$fgetb(com.unity3d.player.i) -> b
+      # {"id":"com.android.tools.r8.synthesized"}
+    java.lang.Object -$$Nest$fgetc(com.unity3d.player.i) -> c
+      # {"id":"com.android.tools.r8.synthesized"}
+    void -$$Nest$fputc(com.unity3d.player.i,java.lang.Object) -> d
+      # {"id":"com.android.tools.r8.synthesized"}
+    com.unity3d.player.i -$$Nest$sfgetd() -> e
+      # {"id":"com.android.tools.r8.synthesized"}
+com.unity3d.player.r -> com.unity3d.player.r:
+    com.unity3d.player.a.b -$$Nest$fgeta(com.unity3d.player.r) -> a
+      # {"id":"com.android.tools.r8.synthesized"}
+    android.hardware.camera2.CameraDevice -$$Nest$fgetb(com.unity3d.player.r) -> b
+      # {"id":"com.android.tools.r8.synthesized"}
+    android.util.Range -$$Nest$fgetn(com.unity3d.player.r) -> c
+      # {"id":"com.android.tools.r8.synthesized"}
+    android.media.Image -$$Nest$fgetp(com.unity3d.player.r) -> d
+      # {"id":"com.android.tools.r8.synthesized"}
+    android.hardware.camera2.CaptureRequest$Builder -$$Nest$fgetq(com.unity3d.player.r) -> e
+      # {"id":"com.android.tools.r8.synthesized"}
+    java.lang.Object -$$Nest$fgets(com.unity3d.player.r) -> f
+      # {"id":"com.android.tools.r8.synthesized"}
+    android.view.Surface -$$Nest$fgetv(com.unity3d.player.r) -> g
+      # {"id":"com.android.tools.r8.synthesized"}
+    void -$$Nest$fputb(com.unity3d.player.r,android.hardware.camera2.CameraDevice) -> h
+      # {"id":"com.android.tools.r8.synthesized"}
+    void -$$Nest$fputp(com.unity3d.player.r,android.media.Image) -> i
+      # {"id":"com.android.tools.r8.synthesized"}
+    void -$$Nest$fputq(com.unity3d.player.r,android.hardware.camera2.CaptureRequest$Builder) -> j
+      # {"id":"com.android.tools.r8.synthesized"}
+    void -$$Nest$fputr(com.unity3d.player.r,android.hardware.camera2.CameraCaptureSession) -> k
+      # {"id":"com.android.tools.r8.synthesized"}
+    void -$$Nest$ma(com.unity3d.player.r,android.hardware.camera2.CameraDevice) -> l
+      # {"id":"com.android.tools.r8.synthesized"}
+    void -$$Nest$ma(com.unity3d.player.r,java.lang.Object) -> m
+      # {"id":"com.android.tools.r8.synthesized"}
+    void -$$Nest$mg(com.unity3d.player.r) -> n
+      # {"id":"com.android.tools.r8.synthesized"}
+    java.util.concurrent.Semaphore -$$Nest$sfgetD() -> o
+      # {"id":"com.android.tools.r8.synthesized"}
+com.unity3d.player.s$$ExternalSyntheticApiModelOutline0 -> com.unity3d.player.e1:
+# {"id":"sourceFile","fileName":"R8$$SyntheticClass"}
+# {"id":"com.android.tools.r8.synthesized"}
+    void com.unity3d.player.s$$InternalSyntheticApiModelOutline$1$982e5034819aa6ecc448a510735d94e7bef8ab00b4e6a4a02007674377ed52cf$0.m(android.view.WindowManager$LayoutParams,int) -> a
+      # {"id":"com.android.tools.r8.synthesized"}
+com.unity3d.player.x$$ExternalSyntheticApiModelOutline0 -> com.unity3d.player.f1:
+# {"id":"sourceFile","fileName":"R8$$SyntheticClass"}
+# {"id":"com.android.tools.r8.synthesized"}
+    void com.unity3d.player.x$$InternalSyntheticApiModelOutline$1$54b7fcd94a18ba36157f315fe15f679064f9ab54892a8f4113955f1e33347869$0.m(android.view.SurfaceView,android.graphics.Bitmap,android.view.PixelCopy$OnPixelCopyFinishedListener,android.os.Handler) -> a
+      # {"id":"com.android.tools.r8.synthesized"}
+com.unity3d.player.z0 -> com.unity3d.player.z0:
+    void <init>(com.unity3d.player.UnityPlayer,com.unity3d.player.z0-IA) -> <init>
+      # {"id":"com.android.tools.r8.synthesized"}
+com.unity3d.player.z0-IA -> com.unity3d.player.g1:
+# {"id":"sourceFile","fileName":"R8$$SyntheticClass"}
+# {"id":"com.android.tools.r8.synthesized"}

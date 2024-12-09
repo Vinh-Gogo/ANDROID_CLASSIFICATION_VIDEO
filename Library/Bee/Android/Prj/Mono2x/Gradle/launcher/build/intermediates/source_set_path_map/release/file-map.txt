@@ -1,0 +1,9 @@
+com.DefaultCompany.AndroidClassifier.launcher-pngs-0 F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\generated\res\pngs\release
+com.DefaultCompany.AndroidClassifier.launcher-resValues-1 F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\generated\res\resValues\release
+com.DefaultCompany.AndroidClassifier.launcher-rs-2 F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\generated\res\rs\release
+com.DefaultCompany.AndroidClassifier.launcher-mergeReleaseResources-3 F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.DefaultCompany.AndroidClassifier.launcher-mergeReleaseResources-4 F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.DefaultCompany.AndroidClassifier.launcher-merged_res-5 F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\intermediates\merged_res\release
+com.DefaultCompany.AndroidClassifier.launcher-main-6 F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\res
+com.DefaultCompany.AndroidClassifier.launcher-release-7 F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\release\res
+com.DefaultCompany.AndroidClassifier.launcher-packaged_res-8 F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\packaged_res\release

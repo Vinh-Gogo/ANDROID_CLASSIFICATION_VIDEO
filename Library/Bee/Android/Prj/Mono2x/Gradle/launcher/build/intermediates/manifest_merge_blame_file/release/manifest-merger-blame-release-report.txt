@@ -1,0 +1,159 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.DefaultCompany.AndroidClassifier"
+4    android:installLocation="preferExternal"
+5    android:versionCode="1"
+6    android:versionName="1.0" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="29"
+9-->F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+10        android:targetSdkVersion="35" />
+10-->F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+11
+12    <supports-screens
+12-->F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:3-163
+13        android:anyDensity="true"
+13-->F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:135-160
+14        android:largeScreens="true"
+14-->F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:78-105
+15        android:normalScreens="true"
+15-->F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:49-77
+16        android:smallScreens="true"
+16-->F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:21-48
+17        android:xlargeScreens="true" />
+17-->F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:106-134
+18
+19    <supports-gl-texture android:name="GL_KHR_texture_compression_astc_ldr" />
+19-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:7:5-79
+19-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:7:26-76
+20
+21    <uses-permission android:name="android.permission.CAMERA" />
+21-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-65
+21-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:9:22-62
+22    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+22-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:5-79
+22-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:22-76
+23    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+23-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:11:5-81
+23-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:11:22-78
+24    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+24-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:12:5-80
+24-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:12:22-77
+25
+26    <uses-feature
+26-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:14:5-16:36
+27        android:name="android.hardware.camera"
+27-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:15:9-47
+28        android:required="false" />
+28-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:16:9-33
+29    <uses-feature android:glEsVersion="0x00030000" />
+29-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:17:5-54
+29-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:17:19-51
+30    <uses-feature
+30-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:18:5-20:36
+31        android:name="android.hardware.vulkan.version"
+31-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:19:9-55
+32        android:required="false" />
+32-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:20:9-33
+33    <uses-feature
+33-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:21:5-23:35
+34        android:name="android.software.home_screen"
+34-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:22:9-52
+35        android:required="true" />
+35-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:23:9-32
+36    <uses-feature
+36-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:24:5-26:36
+37        android:name="android.hardware.camera.autofocus"
+37-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:25:9-57
+38        android:required="false" />
+38-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:26:9-33
+39    <uses-feature
+39-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:27:5-29:36
+40        android:name="android.hardware.camera.front"
+40-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:28:9-53
+41        android:required="false" />
+41-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:29:9-33
+42    <uses-feature
+42-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:30:5-32:36
+43        android:name="android.hardware.touchscreen"
+43-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:31:9-52
+44        android:required="false" />
+44-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:32:9-33
+45    <uses-feature
+45-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:33:5-35:36
+46        android:name="android.hardware.touchscreen.multitouch"
+46-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:34:9-63
+47        android:required="false" />
+47-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:35:9-33
+48    <uses-feature
+48-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:36:5-38:36
+49        android:name="android.hardware.touchscreen.multitouch.distinct"
+49-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:37:9-72
+50        android:required="false" />
+50-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:38:9-33
+51
+52    <application
+52-->F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:3:3-83
+53        android:extractNativeLibs="true"
+53-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:40:18-50
+54        android:icon="@mipmap/app_icon"
+54-->F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:3:49-80
+55        android:label="@string/app_name" >
+55-->F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:3:16-48
+56        <meta-data
+56-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:41:9-43:33
+57            android:name="unity.splash-mode"
+57-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:42:13-45
+58            android:value="0" />
+58-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:43:13-30
+59        <meta-data
+59-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:44:9-46:36
+60            android:name="unity.splash-enable"
+60-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:45:13-47
+61            android:value="True" />
+61-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:46:13-33
+62        <meta-data
+62-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:47:9-49:36
+63            android:name="unity.launch-fullscreen"
+63-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:48:13-51
+64            android:value="True" />
+64-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:49:13-33
+65        <meta-data
+65-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:50:9-52:36
+66            android:name="unity.render-outside-safearea"
+66-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:51:13-57
+67            android:value="True" />
+67-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:52:13-33
+68        <meta-data
+68-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:53:9-55:50
+69            android:name="notch.config"
+69-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:54:13-40
+70            android:value="portrait|landscape" />
+70-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:55:13-47
+71        <meta-data
+71-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:56:9-58:36
+72            android:name="unity.auto-report-fully-drawn"
+72-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:57:13-57
+73            android:value="true" />
+73-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:58:13-33
+74
+75        <intent-filter>
+75-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:60:9-68:25
+76            <action
+76-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:61:13-63:61
+77                xmlns:android="http://schemas.android.com/apk/res/android"
+77-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:62:17-75
+78                android:name="android.intent.action.MAIN" />
+78-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:63:17-58
+79
+80            <category
+80-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:65:13-67:67
+81                xmlns:android="http://schemas.android.com/apk/res/android"
+81-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:66:17-75
+82                android:name="android.intent.category.LAUNCHER" />
+82-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:67:17-64
+83        </intent-filter>
+84    </application>
+85
+86</manifest>

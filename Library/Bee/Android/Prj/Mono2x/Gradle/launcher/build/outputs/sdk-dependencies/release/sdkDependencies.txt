@@ -1,0 +1,31 @@
+# List of SDK dependencies of this app, this information is also included in an encrypted form in the APK.
+# For more information visit: https://d.android.com/r/tools/dependency-metadata
+
+library {
+  maven_library {
+    artifactId: "onnxruntime"
+  }
+  digests {
+    sha256: "\nA\n\207\362F7\273?0\326\330\020\353\024(\265\370\356\320\253 s\340e\027M\272\032\263P\210"
+  }
+}
+library {
+  digests {
+    sha256: "\027\022\307\027\317\211`\250\023\324\353\201\265#\356\217|\245\245]\313\204\232\031p\327\374)\002|O\245"
+  }
+}
+module_dependencies {
+  module_name: "base"
+  dependency_index: 0
+  dependency_index: 1
+}
+repositories {
+  maven_repo {
+    url: "https://dl.google.com/dl/android/maven2/"
+  }
+}
+repositories {
+  maven_repo {
+    url: "https://repo.maven.apache.org/maven2/"
+  }
+}

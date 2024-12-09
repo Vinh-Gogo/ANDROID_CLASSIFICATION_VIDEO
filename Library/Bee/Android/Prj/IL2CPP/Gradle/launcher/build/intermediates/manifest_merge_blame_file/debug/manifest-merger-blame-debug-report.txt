@@ -1,0 +1,153 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.DefaultCompany.AndroidClassifier"
+4    android:installLocation="preferExternal"
+5    android:versionCode="1"
+6    android:versionName="1.4" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="29"
+9-->F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+10        android:targetSdkVersion="35" />
+10-->F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+11
+12    <supports-screens
+12-->F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:3-163
+13        android:anyDensity="true"
+13-->F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:135-160
+14        android:largeScreens="true"
+14-->F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:78-105
+15        android:normalScreens="true"
+15-->F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:49-77
+16        android:smallScreens="true"
+16-->F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:21-48
+17        android:xlargeScreens="true" />
+17-->F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:106-134
+18
+19    <uses-permission android:name="android.permission.CAMERA" />
+19-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-65
+19-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:7:22-62
+20    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+20-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:5-79
+20-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:22-76
+21    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+21-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-81
+21-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:22-78
+22    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+22-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:5-80
+22-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:22-77
+23    <uses-permission android:name="android.permission.INTERNET" />
+23-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:5-67
+23-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:22-64
+24
+25    <uses-feature
+25-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:5-15:36
+26        android:name="android.hardware.camera"
+26-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:9-47
+27        android:required="false" />
+27-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:9-33
+28    <uses-feature android:glEsVersion="0x00030000" />
+28-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:16:5-54
+28-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:16:19-51
+29    <uses-feature
+29-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:17:5-19:36
+30        android:name="android.hardware.vulkan.version"
+30-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:18:9-55
+31        android:required="false" />
+31-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:19:9-33
+32    <uses-feature
+32-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:5-22:36
+33        android:name="android.hardware.camera.autofocus"
+33-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:21:9-57
+34        android:required="false" />
+34-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:22:9-33
+35    <uses-feature
+35-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:23:5-25:36
+36        android:name="android.hardware.camera.front"
+36-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:24:9-53
+37        android:required="false" />
+37-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:25:9-33
+38    <uses-feature
+38-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:26:5-28:36
+39        android:name="android.hardware.touchscreen"
+39-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:27:9-52
+40        android:required="false" />
+40-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:28:9-33
+41    <uses-feature
+41-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:29:5-31:36
+42        android:name="android.hardware.touchscreen.multitouch"
+42-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:30:9-63
+43        android:required="false" />
+43-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:31:9-33
+44    <uses-feature
+44-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:32:5-34:36
+45        android:name="android.hardware.touchscreen.multitouch.distinct"
+45-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:33:9-72
+46        android:required="false" />
+46-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:34:9-33
+47
+48    <application
+48-->F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:3-83
+49        android:debuggable="true"
+50        android:extractNativeLibs="true"
+50-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:36:18-50
+51        android:icon="@mipmap/app_icon"
+51-->F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:49-80
+52        android:label="@string/app_name" >
+52-->F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:16-48
+53        <meta-data
+53-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:37:9-39:33
+54            android:name="unity.splash-mode"
+54-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:38:13-45
+55            android:value="0" />
+55-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:39:13-30
+56        <meta-data
+56-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:40:9-42:36
+57            android:name="unity.splash-enable"
+57-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:41:13-47
+58            android:value="True" />
+58-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:42:13-33
+59        <meta-data
+59-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:43:9-45:36
+60            android:name="unity.launch-fullscreen"
+60-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:44:13-51
+61            android:value="True" />
+61-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:45:13-33
+62        <meta-data
+62-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:46:9-48:36
+63            android:name="unity.render-outside-safearea"
+63-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:47:13-57
+64            android:value="True" />
+64-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:48:13-33
+65        <meta-data
+65-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:49:9-51:50
+66            android:name="notch.config"
+66-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:50:13-40
+67            android:value="portrait|landscape" />
+67-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:51:13-47
+68        <meta-data
+68-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:52:9-54:36
+69            android:name="unity.auto-report-fully-drawn"
+69-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:53:13-57
+70            android:value="true" />
+70-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:54:13-33
+71
+72        <intent-filter>
+72-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:56:9-64:25
+73            <action
+73-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:57:13-59:61
+74                xmlns:android="http://schemas.android.com/apk/res/android"
+74-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:58:17-75
+75                android:name="android.intent.action.MAIN" />
+75-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:59:17-58
+76
+77            <category
+77-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:61:13-63:67
+78                xmlns:android="http://schemas.android.com/apk/res/android"
+78-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:62:17-75
+79                android:name="android.intent.category.LAUNCHER" />
+79-->[:unityLibrary] F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:63:17-64
+80        </intent-filter>
+81    </application>
+82
+83</manifest>

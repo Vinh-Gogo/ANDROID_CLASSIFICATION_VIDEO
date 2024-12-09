@@ -1,0 +1,4 @@
+UnityEngine.WebCamTexture
+System.Net.Sockets
+UnityEngine.Input::GetTouch
+UnityEngine.Input::get_touchCount

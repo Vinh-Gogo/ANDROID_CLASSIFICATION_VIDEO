@@ -1,0 +1,151 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:1-29:12
+	package
+		INJECTED from F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+		ADDED from F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:11-69
+supports-gl-texture#GL_KHR_texture_compression_astc_ldr
+ADDED from F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:3-77
+	android:name
+		ADDED from F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:24-74
+uses-permission#android.permission.CAMERA
+ADDED from F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:3-63
+	android:name
+		ADDED from F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:20-60
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:3-77
+	android:name
+		ADDED from F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:20-74
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:3-79
+	android:name
+		ADDED from F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:20-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:3-78
+	android:name
+		ADDED from F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:20-75
+uses-feature#android.hardware.camera
+ADDED from F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:3-83
+	android:required
+		ADDED from F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:56-80
+	android:name
+		ADDED from F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:17-55
+uses-feature#0x00030000
+ADDED from F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:3-52
+	android:glEsVersion
+		ADDED from F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:17-49
+uses-feature#android.hardware.vulkan.version
+ADDED from F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:3-91
+	android:required
+		ADDED from F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:64-88
+	android:name
+		ADDED from F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:17-63
+uses-feature#android.software.home_screen
+ADDED from F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:3-87
+	android:required
+		ADDED from F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:61-84
+	android:name
+		ADDED from F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:17-60
+uses-feature#android.hardware.camera.autofocus
+ADDED from F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:3-93
+	android:required
+		ADDED from F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:66-90
+	android:name
+		ADDED from F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:17-65
+uses-feature#android.hardware.camera.front
+ADDED from F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:3-89
+	android:required
+		ADDED from F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:62-86
+	android:name
+		ADDED from F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:17-61
+uses-feature#android.hardware.touchscreen
+ADDED from F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:3-88
+	android:required
+		ADDED from F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:61-85
+	android:name
+		ADDED from F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:17-60
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:3-99
+	android:required
+		ADDED from F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:72-96
+	android:name
+		ADDED from F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:17-71
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:3-108
+	android:required
+		ADDED from F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:81-105
+	android:name
+		ADDED from F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:17-80
+application
+ADDED from F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:3-28:17
+	android:extractNativeLibs
+		ADDED from F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:16-48
+meta-data#unity.splash-mode
+ADDED from F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:5-69
+	android:value
+		ADDED from F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:49-66
+	android:name
+		ADDED from F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:16-48
+meta-data#unity.splash-enable
+ADDED from F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:5-74
+	android:value
+		ADDED from F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:51-71
+	android:name
+		ADDED from F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:16-50
+meta-data#unity.launch-fullscreen
+ADDED from F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:5-78
+	android:value
+		ADDED from F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:55-75
+	android:name
+		ADDED from F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:16-54
+meta-data#unity.render-outside-safearea
+ADDED from F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:5-84
+	android:value
+		ADDED from F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:61-81
+	android:name
+		ADDED from F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:16-60
+meta-data#notch.config
+ADDED from F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:22:5-81
+	android:value
+		ADDED from F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:22:44-78
+	android:name
+		ADDED from F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:22:16-43
+meta-data#unity.auto-report-fully-drawn
+ADDED from F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:23:5-84
+	android:value
+		ADDED from F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:23:61-81
+	android:name
+		ADDED from F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:23:16-60
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:5-27:21
+action#android.intent.action.MAIN
+ADDED from F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:7-118
+	xmlns:android
+		ADDED from F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:57-115
+	android:name
+		ADDED from F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:15-56
+category#android.intent.category.LAUNCHER
+ADDED from F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:26:7-126
+	xmlns:android
+		ADDED from F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:26:65-123
+	android:name
+		ADDED from F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:26:17-64
+uses-sdk
+INJECTED from F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+INJECTED from F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+INJECTED from F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+INJECTED from F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+		ADDED from F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+		INJECTED from F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+		ADDED from F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+		INJECTED from F:\PROJECT\UNITY\Android Classifier\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml

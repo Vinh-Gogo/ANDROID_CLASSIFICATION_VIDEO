@@ -1,0 +1,4 @@
+#Thu Dec 05 12:28:46 ICT 2024
+base.0=F\:\\PROJECT\\UNITY\\Android Classifier\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\build\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

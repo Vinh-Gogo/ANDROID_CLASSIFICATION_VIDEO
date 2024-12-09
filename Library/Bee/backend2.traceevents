@@ -1,0 +1,736 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1733376201091495, "dur":52, "ph":"X", "name": "IPC_Client_InitializeAndConnectToParent",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1733376201091606, "dur":96821, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1733376201188438, "dur":11194, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1733376201199808, "dur":385, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1733376201200193, "dur":219, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1733376201202089, "dur":375, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"WriteText Library/Bee/artifacts/csharpactions/UnityEngine.GridModule-FeaturesChecked.txt_5p9t.info" }}
+,{ "pid":12345, "tid":0, "ts":1733376201202765, "dur":94, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"WriteText Library/Bee/artifacts/csharpactions/UnityEngine.PhysicsModule-FeaturesChecked.txt_2l1t.info" }}
+,{ "pid":12345, "tid":0, "ts":1733376201205431, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/1pa2qt03l9cm.o" }}
+,{ "pid":12345, "tid":0, "ts":1733376201207583, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/84xue14880tc.o" }}
+,{ "pid":12345, "tid":0, "ts":1733376201209818, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/ahsm7fty7n3a.o" }}
+,{ "pid":12345, "tid":0, "ts":1733376201212589, "dur":680, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/q8q9d/iy9k3tu9o3td.o" }}
+,{ "pid":12345, "tid":0, "ts":1733376201213375, "dur":131, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/q8q9d/49qaz4cjgjbj.o" }}
+,{ "pid":12345, "tid":0, "ts":1733376201213706, "dur":217, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/q8q9d/5hbrjkthklsy.o" }}
+,{ "pid":12345, "tid":0, "ts":1733376201214021, "dur":116, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/q8q9d/cfxbse66s08a.o" }}
+,{ "pid":12345, "tid":0, "ts":1733376201214484, "dur":88, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/q8q9d/ry00qdqr9j6a.o" }}
+,{ "pid":12345, "tid":0, "ts":1733376201214666, "dur":59, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/q8q9d/cdwuydtw159t.o" }}
+,{ "pid":12345, "tid":0, "ts":1733376201214732, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/q8q9d/dlgbjt9u57q9.o" }}
+,{ "pid":12345, "tid":0, "ts":1733376201218589, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/q8q9d/4rfmk581xkhb.o" }}
+,{ "pid":12345, "tid":0, "ts":1733376201222492, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles F:/PROJECT/UNITY/Android Classifier/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__40.cpp" }}
+,{ "pid":12345, "tid":0, "ts":1733376201224962, "dur":66, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles F:/PROJECT/UNITY/Android Classifier/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/mscorlib__7.cpp" }}
+,{ "pid":12345, "tid":0, "ts":1733376201226628, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles F:/PROJECT/UNITY/Android Classifier/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Unity.InternalAPIEngineBridge.001_CodeGen.c" }}
+,{ "pid":12345, "tid":0, "ts":1733376201228965, "dur":123, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles F:/PROJECT/UNITY/Android Classifier/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.TextRenderingModule_CodeGen.c" }}
+,{ "pid":12345, "tid":0, "ts":1733376201230563, "dur":177, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles F:/PROJECT/UNITY/Android Classifier/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.UIElementsModule__14.cpp" }}
+,{ "pid":12345, "tid":0, "ts":1733376201230943, "dur":130, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles F:/PROJECT/UNITY/Android Classifier/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.UIElementsModule__7.cpp" }}
+,{ "pid":12345, "tid":0, "ts":1733376201231474, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles F:/PROJECT/UNITY/Android Classifier/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.UI_CodeGen.c" }}
+,{ "pid":12345, "tid":0, "ts":1733376201233299, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles F:/PROJECT/UNITY/Android Classifier/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.pdb" }}
+,{ "pid":12345, "tid":0, "ts":1733376201234441, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"WriteText F:/PROJECT/UNITY/Android Classifier/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/res/values/strings.xml" }}
+,{ "pid":12345, "tid":0, "ts":1733376201235006, "dur":64, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"WriteText Library/Bee/artifacts/csharpactions/UnityClassRegistration.cpp_8o71.info" }}
+,{ "pid":12345, "tid":0, "ts":1733376201200439, "dur":34850, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1733376201235299, "dur":20931009, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1733376222166313, "dur":191, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1733376222166650, "dur":13385, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1733376201201879, "dur":33431, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1733376201235313, "dur":66774, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1733376201304675, "dur":639, "ph":"X", "name": "WriteResponseFile",  "args": { "detail":"Library/Bee/artifacts/rsp/2560440660016097481.rsp" }}
+,{ "pid":12345, "tid":1, "ts":1733376201305650, "dur":898, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"F:\\PROJECT\\UNITY\\Android Classifier\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":1, "ts":1733376201306551, "dur":1487, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"F:\\PROJECT\\UNITY\\Android Classifier\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.IK.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1733376201308041, "dur":1292, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"F:\\PROJECT\\UNITY\\Android Classifier\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Burst.dll" }}
+,{ "pid":12345, "tid":1, "ts":1733376201309336, "dur":1649, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"F:\\PROJECT\\UNITY\\Android Classifier\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Barracuda.ONNX.dll" }}
+,{ "pid":12345, "tid":1, "ts":1733376201310989, "dur":2097, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"F:\\PROJECT\\UNITY\\Android Classifier\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1733376201313088, "dur":2009, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"F:\\PROJECT\\UNITY\\Android Classifier\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.Animation.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1733376201315100, "dur":1565, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"F:\\PROJECT\\UNITY\\Android Classifier\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.Tilemap.Extras.dll" }}
+,{ "pid":12345, "tid":1, "ts":1733376201316668, "dur":518, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"F:\\PROJECT\\UNITY\\Android Classifier\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Barracuda.BurstBLAS.dll" }}
+,{ "pid":12345, "tid":1, "ts":1733376201317189, "dur":2292, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"F:\\PROJECT\\UNITY\\Android Classifier\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Barracuda.dll" }}
+,{ "pid":12345, "tid":1, "ts":1733376201319484, "dur":3219, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"F:\\PROJECT\\UNITY\\Android Classifier\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":1, "ts":1733376201322706, "dur":724, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"F:\\PROJECT\\UNITY\\Android Classifier\\Library\\Bee\\PlayerScriptAssemblies\\Unity.InternalAPIEngineBridge.001.dll" }}
+,{ "pid":12345, "tid":1, "ts":1733376201323433, "dur":646, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"F:\\PROJECT\\UNITY\\Android Classifier\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.Common.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1733376201324081, "dur":1035, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"F:\\PROJECT\\UNITY\\Android Classifier\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":1, "ts":1733376201325119, "dur":1051, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"F:\\PROJECT\\UNITY\\Android Classifier\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":1, "ts":1733376201326172, "dur":1339, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"F:\\PROJECT\\UNITY\\Android Classifier\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Collections.dll" }}
+,{ "pid":12345, "tid":1, "ts":1733376201327514, "dur":695, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"F:\\PROJECT\\UNITY\\Android Classifier\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.SpriteShape.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1733376201328212, "dur":342, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"F:\\PROJECT\\UNITY\\Android Classifier\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.PixelPerfect.dll" }}
+,{ "pid":12345, "tid":1, "ts":1733376201328556, "dur":2703, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"F:\\PROJECT\\UNITY\\Android Classifier\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":1, "ts":1733376201331261, "dur":1541, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"F:\\PROJECT\\UNITY\\Android Classifier\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":1, "ts":1733376201332805, "dur":463, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"F:\\PROJECT\\UNITY\\Android Classifier\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":1, "ts":1733376201334104, "dur":257, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"F:\\PROJECT\\UNITY\\Android Classifier\\Temp\\StagingArea\\Data\\Managed\\TypesInScenes.xml" }}
+,{ "pid":12345, "tid":1, "ts":1733376201334363, "dur":198, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"F:\\PROJECT\\UNITY\\Android Classifier\\Temp\\StagingArea\\Data\\Managed\\SerializedTypes.xml" }}
+,{ "pid":12345, "tid":1, "ts":1733376201334563, "dur":1530, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"F:\\PROJECT\\UNITY\\Android Classifier\\Temp\\StagingArea\\Data\\Managed\\EditorToUnityLinkerData.json" }}
+,{ "pid":12345, "tid":1, "ts":1733376201336903, "dur":13893, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\rsp\\2560440660016097481.rsp" }}
+,{ "pid":12345, "tid":1, "ts":1733376201305318, "dur":45479, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"UnityLinker F:/PROJECT/UNITY/Android Classifier/Library/Bee/artifacts/unitylinker_xy1a.traceevents" }}
+,{ "pid":12345, "tid":1, "ts":1733376201352249, "dur":283, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1733376201375148, "dur":20765688, "ph":"X", "name": "UnityLinker",  "args": { "detail":"F:/PROJECT/UNITY/Android Classifier/Library/Bee/artifacts/unitylinker_xy1a.traceevents" }}
+,{ "pid":12345, "tid":2, "ts":1733376201202624, "dur":32691, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201235561, "dur":846, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\PlaybackEngines\\AndroidPlayer\\Variations\\il2cpp\\Common\\StaticLibs\\note_unity" }}
+,{ "pid":12345, "tid":2, "ts":1733376201236408, "dur":768, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\PlaybackEngines\\AndroidPlayer\\NDK\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\llvm-strip.exe" }}
+,{ "pid":12345, "tid":2, "ts":1733376201237625, "dur":515, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\Tools\\InternalCallRegistrationWriter\\InternalCallRegistrationWriter.exe" }}
+,{ "pid":12345, "tid":2, "ts":1733376201235317, "dur":3328, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201239656, "dur":2397, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\build\\deploy\\System.Security.Cryptography.OpenSsl.dll" }}
+,{ "pid":12345, "tid":2, "ts":1733376201242054, "dur":2901, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\build\\deploy\\System.Security.Cryptography.Encoding.dll" }}
+,{ "pid":12345, "tid":2, "ts":1733376201238645, "dur":6601, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201245247, "dur":3351, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\build\\deploy\\il2cpp.deps.json" }}
+,{ "pid":12345, "tid":2, "ts":1733376201248599, "dur":3007, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\build\\deploy\\hostpolicy.dll" }}
+,{ "pid":12345, "tid":2, "ts":1733376201245247, "dur":7774, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201253102, "dur":723, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\PlaybackEngines\\AndroidPlayer\\modules.asset" }}
+,{ "pid":12345, "tid":2, "ts":1733376201253022, "dur":1414, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201255773, "dur":816, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityaot-linux\\System.Numerics.dll" }}
+,{ "pid":12345, "tid":2, "ts":1733376201254437, "dur":2920, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201257358, "dur":3402, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201262397, "dur":1593, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityaot-linux\\Facades\\System.Security.Cryptography.Csp.dll" }}
+,{ "pid":12345, "tid":2, "ts":1733376201260761, "dur":4194, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201264956, "dur":2373, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201267330, "dur":1142, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201268473, "dur":357, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201268830, "dur":680, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201269511, "dur":934, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201270472, "dur":31629, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201302121, "dur":845, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201302981, "dur":535, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201303565, "dur":104, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201303802, "dur":320, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201304130, "dur":103, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201304321, "dur":502, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201304857, "dur":119, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"MakeLump Library/Bee/artifacts/Android/tapai/5n20g1my180q0.lump.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1733376201304982, "dur":249, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201305239, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201305296, "dur":414, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201305717, "dur":145, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201305869, "dur":188, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201306066, "dur":187, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201306260, "dur":88, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"MakeLump Library/Bee/artifacts/Android/tapai/5z3pdun5m7q00.lump.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1733376201306349, "dur":1498, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201307931, "dur":233, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201308171, "dur":250, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201308429, "dur":382, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201308828, "dur":25659, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"Library\\Bee\\artifacts\\Android\\tapai\\xg2zo2mty7hl0.lump.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1733376201334499, "dur":350, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201308817, "dur":26032, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/vm0ac2hnkbwv.o" }}
+,{ "pid":12345, "tid":2, "ts":1733376201334850, "dur":161, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201335023, "dur":2429, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"Library\\Bee\\artifacts\\Android\\tapai\\yjii4i5gdx3c0.lump.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1733376201337465, "dur":157, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201335018, "dur":2604, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/4yr1pi15pg6o.o" }}
+,{ "pid":12345, "tid":2, "ts":1733376201337623, "dur":433, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201338068, "dur":2108, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"Library\\Bee\\artifacts\\Android\\tapai\\2r94yugupbl22.lump.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1733376201340189, "dur":356, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201338063, "dur":2483, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/natvn7bnp8hz.o" }}
+,{ "pid":12345, "tid":2, "ts":1733376201340547, "dur":177, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201340736, "dur":4268, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"Library\\Bee\\artifacts\\Android\\tapai\\uct5m5enljv30.lump.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1733376201345018, "dur":394, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201340731, "dur":4682, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/v02vq2b2xamn.o" }}
+,{ "pid":12345, "tid":2, "ts":1733376201345414, "dur":196, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201345622, "dur":1686, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"Library\\Bee\\artifacts\\Android\\tapai\\3h6yy8y4nwm10.lump.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1733376201347321, "dur":330, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201345618, "dur":2034, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/3vudf7fnqh25.o" }}
+,{ "pid":12345, "tid":2, "ts":1733376201347701, "dur":3493, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"Library\\Bee\\artifacts\\Android\\tapai\\3h6yy8y4nwm13.lump.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1733376201351207, "dur":430, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201347697, "dur":3940, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/chqwjvazetfp.o" }}
+,{ "pid":12345, "tid":2, "ts":1733376201351683, "dur":3033, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"Library\\Bee\\artifacts\\Android\\tapai\\4ghpjtsrv2wj1.lump.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1733376201354728, "dur":257, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201351678, "dur":3308, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/67f5m695d5kw.o" }}
+,{ "pid":12345, "tid":2, "ts":1733376201355036, "dur":1812, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"Library\\Bee\\artifacts\\Android\\tapai\\wdmhze6lytaa0.lump.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1733376201356860, "dur":346, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201355031, "dur":2176, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/cvse80obn7cf.o" }}
+,{ "pid":12345, "tid":2, "ts":1733376201357263, "dur":2716, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"Library\\Bee\\artifacts\\Android\\tapai\\5n20g1my180q2.lump.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1733376201359991, "dur":283, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201357258, "dur":3017, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/34xxzji4sn58.o" }}
+,{ "pid":12345, "tid":2, "ts":1733376201360320, "dur":1431, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"Library\\Bee\\artifacts\\Android\\tapai\\tkwlwbuwl3al1.lump.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1733376201361762, "dur":239, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201360316, "dur":1690, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/22cubl80g5wn.o" }}
+,{ "pid":12345, "tid":2, "ts":1733376201362060, "dur":2686, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"Library\\Bee\\artifacts\\Android\\tapai\\tkwlwbuwl3al3.lump.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1733376201364758, "dur":144, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201362055, "dur":2848, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/84xue14880tc.o" }}
+,{ "pid":12345, "tid":2, "ts":1733376201364955, "dur":1841, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"Library\\Bee\\artifacts\\Android\\tapai\\tt8ekx12sa291.lump.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1733376201366807, "dur":197, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201364950, "dur":2054, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/f9dv7nbqtei0.o" }}
+,{ "pid":12345, "tid":2, "ts":1733376201367052, "dur":1065, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"Library\\Bee\\artifacts\\Android\\tapai\\tnbsoyp7ho4b1.lump.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1733376201368128, "dur":201, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201367047, "dur":1282, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/orbum4zv6o6f.o" }}
+,{ "pid":12345, "tid":2, "ts":1733376201368330, "dur":404, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201368747, "dur":672, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"Library\\Bee\\artifacts\\Android\\tapai\\yo1rnpqnxu9e0.lump.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1733376201369423, "dur":8613, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\PlaybackEngines\\AndroidPlayer\\NDK\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++" }}
+,{ "pid":12345, "tid":2, "ts":1733376201378526, "dur":64, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\il2cpp-config-api.h" }}
+,{ "pid":12345, "tid":2, "ts":1733376201378047, "dur":699, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201368743, "dur":10005, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/3z7szmsfr7kt.o" }}
+,{ "pid":12345, "tid":2, "ts":1733376201378750, "dur":552, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201379320, "dur":4122, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"Library\\Bee\\artifacts\\Android\\tapai\\ln6wi1mrkewa0.lump.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1733376201383459, "dur":785, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201379315, "dur":4932, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/s7lof3otp5xv.o" }}
+,{ "pid":12345, "tid":2, "ts":1733376201384253, "dur":254, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201384562, "dur":2078, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"Library\\Bee\\artifacts\\Android\\tapai\\oh7llhtza4u85.lump.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1733376201386654, "dur":524, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201384549, "dur":2630, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/5n5wogtdjwb3.o" }}
+,{ "pid":12345, "tid":2, "ts":1733376201387181, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201387251, "dur":554, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"Library\\Bee\\artifacts\\Android\\tapai\\wdmhze6lytaa2.lump.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1733376201387823, "dur":115, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201387246, "dur":693, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/ypu7fnnkghf0.o" }}
+,{ "pid":12345, "tid":2, "ts":1733376201387994, "dur":1278, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"Library\\Bee\\artifacts\\Android\\tapai\\oh7llhtza4u84.lump.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1733376201389284, "dur":384, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201387989, "dur":1681, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/24uen8u9mgv8.o" }}
+,{ "pid":12345, "tid":2, "ts":1733376201389732, "dur":938, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"Library\\Bee\\artifacts\\Android\\tapai\\oh7llhtza4u80.lump.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1733376201391159, "dur":176, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\external\\baselib\\Include\\Internal\\BasicTypes.h" }}
+,{ "pid":12345, "tid":2, "ts":1733376201390682, "dur":654, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201389727, "dur":1610, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/a87kc6zs1awy.o" }}
+,{ "pid":12345, "tid":2, "ts":1733376201391338, "dur":66, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201391421, "dur":6659, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"Library\\Bee\\artifacts\\Android\\tapai\\oh7llhtza4u83.lump.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1733376201398282, "dur":1100, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201391416, "dur":7967, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/zlkwl0w5q0ee.o" }}
+,{ "pid":12345, "tid":2, "ts":1733376201399384, "dur":61, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201399462, "dur":2720, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"Library\\Bee\\artifacts\\Android\\tapai\\oh7llhtza4u82.lump.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1733376201402195, "dur":414, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201399458, "dur":3152, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/gatlfmw0t6sn.o" }}
+,{ "pid":12345, "tid":2, "ts":1733376201402678, "dur":1058, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"Library\\Bee\\artifacts\\Android\\tapai\\oh7llhtza4u81.lump.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1733376201403964, "dur":72, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\external\\baselib\\Include\\Internal\\PlatformEnvironment.h" }}
+,{ "pid":12345, "tid":2, "ts":1733376201404088, "dur":93, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\metadata\\GenericMethod.h" }}
+,{ "pid":12345, "tid":2, "ts":1733376201403746, "dur":561, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201402673, "dur":1635, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/dri3deywxqct.o" }}
+,{ "pid":12345, "tid":2, "ts":1733376201404310, "dur":61, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201404390, "dur":693, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"Library\\Bee\\artifacts\\Android\\tapai\\wdmhze6lytaa1.lump.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1733376201405095, "dur":427, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201404385, "dur":1138, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/v6jpefpgk1y5.o" }}
+,{ "pid":12345, "tid":2, "ts":1733376201405587, "dur":641, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"Library\\Bee\\artifacts\\Android\\tapai\\9fai1ytzuy930.lump.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1733376201406255, "dur":58, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\il2cpp-tokentype.h" }}
+,{ "pid":12345, "tid":2, "ts":1733376201406238, "dur":106, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201405582, "dur":763, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/xtohxsisc1um.o" }}
+,{ "pid":12345, "tid":2, "ts":1733376201406393, "dur":474, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\external\\zlib\\adler32.c" }}
+,{ "pid":12345, "tid":2, "ts":1733376201406385, "dur":503, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/o1sjg/j37gvrtza6gb.o" }}
+,{ "pid":12345, "tid":2, "ts":1733376201406936, "dur":797, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"Library\\Bee\\artifacts\\Android\\tapai\\gkums1zxdtdn0.lump.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1733376201407743, "dur":387, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201406931, "dur":1200, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/e6nm3p5ymb84.o" }}
+,{ "pid":12345, "tid":2, "ts":1733376201408187, "dur":287, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\os\\ClassLibraryPAL\\brotli\\enc\\utf8_util.c" }}
+,{ "pid":12345, "tid":2, "ts":1733376201408479, "dur":553, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\os\\ClassLibraryPAL\\brotli\\enc\\utf8_util.c" }}
+,{ "pid":12345, "tid":2, "ts":1733376201408183, "dur":873, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/0846rhqnsk2m.o" }}
+,{ "pid":12345, "tid":2, "ts":1733376201409057, "dur":202, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201409288, "dur":209, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201409510, "dur":260, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\os\\ClassLibraryPAL\\brotli\\common\\platform.c" }}
+,{ "pid":12345, "tid":2, "ts":1733376201409506, "dur":294, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/wsc6if6dzb2c.o" }}
+,{ "pid":12345, "tid":2, "ts":1733376201409801, "dur":695, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201410511, "dur":569, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\os\\ClassLibraryPAL\\brotli\\enc\\static_dict.c" }}
+,{ "pid":12345, "tid":2, "ts":1733376201411081, "dur":2375, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\os\\ClassLibraryPAL\\brotli\\enc\\static_dict.c" }}
+,{ "pid":12345, "tid":2, "ts":1733376201410506, "dur":2994, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/35ed0evblxkt.o" }}
+,{ "pid":12345, "tid":2, "ts":1733376201413502, "dur":544, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201414080, "dur":1408, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\os\\ClassLibraryPAL\\brotli\\enc\\metablock.c" }}
+,{ "pid":12345, "tid":2, "ts":1733376201415489, "dur":3776, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\os\\ClassLibraryPAL\\brotli\\enc\\metablock.c" }}
+,{ "pid":12345, "tid":2, "ts":1733376201419277, "dur":84, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201414074, "dur":5287, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/886ohjqie5k2.o" }}
+,{ "pid":12345, "tid":2, "ts":1733376201419419, "dur":106, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\os\\ClassLibraryPAL\\brotli\\enc\\memory.c" }}
+,{ "pid":12345, "tid":2, "ts":1733376201419415, "dur":141, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/fv5plbrrgusi.o" }}
+,{ "pid":12345, "tid":2, "ts":1733376201419603, "dur":88, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\os\\ClassLibraryPAL\\brotli\\enc\\literal_cost.c" }}
+,{ "pid":12345, "tid":2, "ts":1733376201419692, "dur":93, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\os\\ClassLibraryPAL\\brotli\\enc\\literal_cost.c" }}
+,{ "pid":12345, "tid":2, "ts":1733376201419599, "dur":208, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/ztcshcpa3fu0.o" }}
+,{ "pid":12345, "tid":2, "ts":1733376201419846, "dur":86, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\os\\ClassLibraryPAL\\brotli\\enc\\histogram.c" }}
+,{ "pid":12345, "tid":2, "ts":1733376201419933, "dur":74, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\os\\ClassLibraryPAL\\brotli\\enc\\histogram.c" }}
+,{ "pid":12345, "tid":2, "ts":1733376201420016, "dur":57, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201419842, "dur":231, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/05zs1s8jzfly.o" }}
+,{ "pid":12345, "tid":2, "ts":1733376201420074, "dur":388, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201420476, "dur":203, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\os\\ClassLibraryPAL\\brotli\\enc\\fast_log.c" }}
+,{ "pid":12345, "tid":2, "ts":1733376201420471, "dur":240, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/bsb2zrdy2wb2.o" }}
+,{ "pid":12345, "tid":2, "ts":1733376201420712, "dur":58, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201420783, "dur":178, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\os\\ClassLibraryPAL\\brotli\\enc\\entropy_encode.c" }}
+,{ "pid":12345, "tid":2, "ts":1733376201420778, "dur":247, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/ahsm7fty7n3a.o" }}
+,{ "pid":12345, "tid":2, "ts":1733376201421072, "dur":161, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\os\\ClassLibraryPAL\\brotli\\enc\\encoder_dict.c" }}
+,{ "pid":12345, "tid":2, "ts":1733376201421234, "dur":1692, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\os\\ClassLibraryPAL\\brotli\\enc\\encoder_dict.c" }}
+,{ "pid":12345, "tid":2, "ts":1733376201422940, "dur":123, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201421068, "dur":1996, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/zsrdc6la5yk5.o" }}
+,{ "pid":12345, "tid":2, "ts":1733376201423065, "dur":232, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201423312, "dur":122, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\os\\ClassLibraryPAL\\brotli\\enc\\encode.c" }}
+,{ "pid":12345, "tid":2, "ts":1733376201423435, "dur":1043, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\os\\ClassLibraryPAL\\brotli\\enc\\encode.c" }}
+,{ "pid":12345, "tid":2, "ts":1733376201424493, "dur":144, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201423308, "dur":1330, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/oq9mxlj6vtl3.o" }}
+,{ "pid":12345, "tid":2, "ts":1733376201424694, "dur":118, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\os\\ClassLibraryPAL\\brotli\\enc\\dictionary_hash.c" }}
+,{ "pid":12345, "tid":2, "ts":1733376201424689, "dur":158, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/n1ysp2u3006l.o" }}
+,{ "pid":12345, "tid":2, "ts":1733376201424898, "dur":110, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\os\\ClassLibraryPAL\\brotli\\enc\\compress_fragment_two_pass.c" }}
+,{ "pid":12345, "tid":2, "ts":1733376201425068, "dur":87, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201424893, "dur":262, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/039l2sd712tj.o" }}
+,{ "pid":12345, "tid":2, "ts":1733376201425161, "dur":24103, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201449284, "dur":196, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\os\\ClassLibraryPAL\\brotli\\enc\\block_splitter.c" }}
+,{ "pid":12345, "tid":2, "ts":1733376201449480, "dur":191, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\os\\ClassLibraryPAL\\brotli\\enc\\block_splitter.c" }}
+,{ "pid":12345, "tid":2, "ts":1733376201449684, "dur":69, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201449279, "dur":475, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/7y2ba5uwxyk2.o" }}
+,{ "pid":12345, "tid":2, "ts":1733376201449815, "dur":125, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\os\\ClassLibraryPAL\\brotli\\enc\\bit_cost.c" }}
+,{ "pid":12345, "tid":2, "ts":1733376201449941, "dur":152, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\os\\ClassLibraryPAL\\brotli\\enc\\bit_cost.c" }}
+,{ "pid":12345, "tid":2, "ts":1733376201450105, "dur":62, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201449811, "dur":356, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/9vvtrnryjvcz.o" }}
+,{ "pid":12345, "tid":2, "ts":1733376201450169, "dur":281, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201450467, "dur":173, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\os\\ClassLibraryPAL\\brotli\\enc\\backward_references_hq.c" }}
+,{ "pid":12345, "tid":2, "ts":1733376201450708, "dur":82, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201450462, "dur":329, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/in1ux6q44g2h.o" }}
+,{ "pid":12345, "tid":2, "ts":1733376201450792, "dur":211, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201451013, "dur":263, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\os\\ClassLibraryPAL\\brotli\\dec\\state.c" }}
+,{ "pid":12345, "tid":2, "ts":1733376201451277, "dur":542, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\os\\ClassLibraryPAL\\brotli\\dec\\state.c" }}
+,{ "pid":12345, "tid":2, "ts":1733376201451836, "dur":58, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201451009, "dur":886, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/xb8dk5zkajao.o" }}
+,{ "pid":12345, "tid":2, "ts":1733376201451898, "dur":576, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201452514, "dur":396, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\os\\ClassLibraryPAL\\brotli\\dec\\huffman.c" }}
+,{ "pid":12345, "tid":2, "ts":1733376201452509, "dur":473, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/p04xu9cw7qqq.o" }}
+,{ "pid":12345, "tid":2, "ts":1733376201452983, "dur":73, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201453072, "dur":183, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\os\\ClassLibraryPAL\\brotli\\dec\\decode.c" }}
+,{ "pid":12345, "tid":2, "ts":1733376201453259, "dur":347, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\os\\ClassLibraryPAL\\brotli\\dec\\decode.c" }}
+,{ "pid":12345, "tid":2, "ts":1733376201453617, "dur":60, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201453068, "dur":610, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/857eau7audhp.o" }}
+,{ "pid":12345, "tid":2, "ts":1733376201453680, "dur":74, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201453775, "dur":248, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\os\\ClassLibraryPAL\\brotli\\common\\dictionary.c" }}
+,{ "pid":12345, "tid":2, "ts":1733376201453771, "dur":298, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/fpfb5ilozmmu.o" }}
+,{ "pid":12345, "tid":2, "ts":1733376201454072, "dur":338, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201454426, "dur":306, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\external\\xamarin-android\\xamarin_getifaddrs.c" }}
+,{ "pid":12345, "tid":2, "ts":1733376201454732, "dur":457, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\external\\xamarin-android\\xamarin_getifaddrs.c" }}
+,{ "pid":12345, "tid":2, "ts":1733376201454422, "dur":784, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/18bjb6e8j97b.o" }}
+,{ "pid":12345, "tid":2, "ts":1733376201455207, "dur":171, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201455387, "dur":79, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\mono\\MonoPosixHelper.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1733376201455467, "dur":95, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\mono\\MonoPosixHelper.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1733376201455383, "dur":226, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/o5013e8vlpbb.o" }}
+,{ "pid":12345, "tid":2, "ts":1733376201455610, "dur":531, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201456152, "dur":125, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\os\\Std\\ThreadImpl.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1733376201456149, "dur":189, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/1o7w6qonfwdn.o" }}
+,{ "pid":12345, "tid":2, "ts":1733376201456338, "dur":154, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201456502, "dur":145, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\icalls\\System\\Microsoft.Win32\\NativeMethods.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1733376201456647, "dur":121, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\icalls\\System\\Microsoft.Win32\\NativeMethods.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1733376201456498, "dur":324, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/q1wds89ydnbh.o" }}
+,{ "pid":12345, "tid":2, "ts":1733376201456823, "dur":164, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201457001, "dur":115, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\icalls\\mscorlib\\System.Runtime\\RuntimeImports.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1733376201457116, "dur":334, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\icalls\\mscorlib\\System.Runtime\\RuntimeImports.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1733376201457528, "dur":246, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201456996, "dur":779, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/pshc1u9no9pj.o" }}
+,{ "pid":12345, "tid":2, "ts":1733376201457821, "dur":157, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\icalls\\mscorlib\\System.Runtime.Remoting.Proxies\\RealProxy.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1733376201457978, "dur":182, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\icalls\\mscorlib\\System.Runtime.Remoting.Proxies\\RealProxy.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1733376201457817, "dur":390, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/g96ipyl3xg9b.o" }}
+,{ "pid":12345, "tid":2, "ts":1733376201458246, "dur":168, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\icalls\\mscorlib\\System.Runtime.CompilerServices\\RuntimeHelpers.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1733376201458415, "dur":247, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\icalls\\mscorlib\\System.Runtime.CompilerServices\\RuntimeHelpers.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1733376201458673, "dur":318, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201458242, "dur":749, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/rwdw21nrt465.o" }}
+,{ "pid":12345, "tid":2, "ts":1733376201459030, "dur":197, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\icalls\\mscorlib\\Microsoft.Win32\\NativeMethods.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1733376201459227, "dur":113, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\icalls\\mscorlib\\Microsoft.Win32\\NativeMethods.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1733376201459026, "dur":347, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/k4hce11y7da0.o" }}
+,{ "pid":12345, "tid":2, "ts":1733376201459412, "dur":113, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\debugger\\il2cpp-api-debugger.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1733376201459525, "dur":400, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\debugger\\il2cpp-api-debugger.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1733376201460073, "dur":66, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\external\\baselib\\Include\\C\\Internal\\Compiler\\Baselib_Atomic_Gcc_Patch.h" }}
+,{ "pid":12345, "tid":2, "ts":1733376201459938, "dur":385, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201459408, "dur":916, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/d7d1e0plj95u.o" }}
+,{ "pid":12345, "tid":2, "ts":1733376201460365, "dur":442, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\external\\zlib\\inftrees.c" }}
+,{ "pid":12345, "tid":2, "ts":1733376201460807, "dur":1009, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\external\\zlib\\inftrees.c" }}
+,{ "pid":12345, "tid":2, "ts":1733376201460362, "dur":1477, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/o1sjg/8bt01ioulmyc.o" }}
+,{ "pid":12345, "tid":2, "ts":1733376201461841, "dur":4540, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201466394, "dur":310, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\external\\zlib\\inffast.c" }}
+,{ "pid":12345, "tid":2, "ts":1733376201466705, "dur":188, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\external\\zlib\\inffast.c" }}
+,{ "pid":12345, "tid":2, "ts":1733376201466390, "dur":529, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/o1sjg/febk2y3fjwit.o" }}
+,{ "pid":12345, "tid":2, "ts":1733376201466920, "dur":212, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201467144, "dur":87, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\external\\zlib\\infback.c" }}
+,{ "pid":12345, "tid":2, "ts":1733376201467141, "dur":142, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/o1sjg/mfpakute9ebg.o" }}
+,{ "pid":12345, "tid":2, "ts":1733376201467319, "dur":69, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\external\\zlib\\gzread.c" }}
+,{ "pid":12345, "tid":2, "ts":1733376201467316, "dur":95, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/o1sjg/xzjo9r6la54t.o" }}
+,{ "pid":12345, "tid":2, "ts":1733376201467412, "dur":211, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201467633, "dur":80, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\external\\zlib\\gzclose.c" }}
+,{ "pid":12345, "tid":2, "ts":1733376201467630, "dur":112, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/o1sjg/blkj6caow1tz.o" }}
+,{ "pid":12345, "tid":2, "ts":1733376201467777, "dur":69, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\external\\zlib\\crc32.c" }}
+,{ "pid":12345, "tid":2, "ts":1733376201467846, "dur":67, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\external\\zlib\\crc32.c" }}
+,{ "pid":12345, "tid":2, "ts":1733376201467774, "dur":159, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/o1sjg/dshwt2be52j5.o" }}
+,{ "pid":12345, "tid":2, "ts":1733376201467934, "dur":172, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201468114, "dur":735, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201468864, "dur":359, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201469305, "dur":148, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201469460, "dur":291, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201469873, "dur":1542, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201471426, "dur":219, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201471658, "dur":284, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201471954, "dur":285, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201472304, "dur":207, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201472526, "dur":393, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201472963, "dur":383, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201473353, "dur":274, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201473784, "dur":173, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Android\\Data\\boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1733376201473962, "dur":15427, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Android\\Data\\RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":2, "ts":1733376201489392, "dur":1919, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Android\\Data\\ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":2, "ts":1733376201492035, "dur":206, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityaot-linux\\Facades\\System.Diagnostics.TextWriterTraceListener.dll" }}
+,{ "pid":12345, "tid":2, "ts":1733376201493585, "dur":152, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\Playera6616199-inputdata.json" }}
+,{ "pid":12345, "tid":2, "ts":1733376201473782, "dur":20050, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/Android/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1733376201495001, "dur":482, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733376201495726, "dur":1394587, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/Android/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1733376202913036, "dur":104, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\Android\\boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1733376202913035, "dur":107, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/PROJECT/UNITY/Android Classifier/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/assets/bin/Data/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1733376202913183, "dur":639, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/PROJECT/UNITY/Android Classifier/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/assets/bin/Data/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1733376202913825, "dur":19252484, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1733376201202811, "dur":32515, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1733376201237039, "dur":647, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\PlaybackEngines\\AndroidPlayer\\NDK\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++" }}
+,{ "pid":12345, "tid":3, "ts":1733376201235330, "dur":2956, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1733376201238286, "dur":1929, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1733376201240215, "dur":1485, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1733376201242928, "dur":1414, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\build\\deploy\\System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":3, "ts":1733376201241701, "dur":3019, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1733376201244869, "dur":575, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\build\\deploy\\System.ComponentModel.EventBasedAsync.dll" }}
+,{ "pid":12345, "tid":3, "ts":1733376201245878, "dur":1770, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\build\\deploy\\System.Collections.dll" }}
+,{ "pid":12345, "tid":3, "ts":1733376201248291, "dur":544, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\build\\deploy\\msquic.dll" }}
+,{ "pid":12345, "tid":3, "ts":1733376201244721, "dur":4243, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1733376201248965, "dur":1358, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1733376201251509, "dur":1444, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\build\\deploy\\api-ms-win-core-string-l1-1-0.dll" }}
+,{ "pid":12345, "tid":3, "ts":1733376201250324, "dur":3349, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1733376201253674, "dur":740, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1733376201254414, "dur":1567, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1733376201255981, "dur":1555, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1733376201257537, "dur":3726, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1733376201262514, "dur":1569, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityaot-linux\\Facades\\System.Runtime.Extensions.dll" }}
+,{ "pid":12345, "tid":3, "ts":1733376201261264, "dur":4417, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1733376201268758, "dur":867, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityaot-linux\\Facades\\System.Collections.dll" }}
+,{ "pid":12345, "tid":3, "ts":1733376201265682, "dur":4049, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1733376201269732, "dur":959, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1733376201270692, "dur":31461, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1733376201302159, "dur":930, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1733376201303103, "dur":298, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1733376201303413, "dur":137, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1733376201303595, "dur":124, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1733376201303776, "dur":196, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1733376201303980, "dur":145, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1733376201304164, "dur":122, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1733376201304294, "dur":469, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1733376201304807, "dur":533, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1733376201305347, "dur":209, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1733376201305650, "dur":2083, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1733376201307747, "dur":165, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1733376201307953, "dur":323, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1733376201308283, "dur":289, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1733376201308714, "dur":25077, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"Library\\Bee\\artifacts\\Android\\tapai\\nas9grx40a2h0.lump.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1733376201333804, "dur":341, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1733376201308578, "dur":25567, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/vri0u4uaqtgt.o" }}
+,{ "pid":12345, "tid":3, "ts":1733376201334147, "dur":171, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1733376201334339, "dur":1341, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"Library\\Bee\\artifacts\\Android\\tapai\\tzo2kqmi15q50.lump.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1733376201335693, "dur":372, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1733376201334335, "dur":1731, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/v6eql93g0soh.o" }}
+,{ "pid":12345, "tid":3, "ts":1733376201336067, "dur":410, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1733376201336492, "dur":5012, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"Library\\Bee\\artifacts\\Android\\tapai\\2r94yugupbl21.lump.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1733376201341516, "dur":355, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1733376201336487, "dur":5385, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/4y1khtbisew8.o" }}
+,{ "pid":12345, "tid":3, "ts":1733376201341918, "dur":1269, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"Library\\Bee\\artifacts\\Android\\tapai\\ytdtx5m7pncy0.lump.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1733376201343209, "dur":278, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1733376201341914, "dur":1574, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/agr9kxv0a4te.o" }}
+,{ "pid":12345, "tid":3, "ts":1733376201343538, "dur":3220, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"Library\\Bee\\artifacts\\Android\\tapai\\5z3pdun5m7q00.lump.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1733376201346785, "dur":382, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1733376201343533, "dur":3635, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/vmduv7rcr2i4.o" }}
+,{ "pid":12345, "tid":3, "ts":1733376201347169, "dur":223, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1733376201347409, "dur":1960, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"Library\\Bee\\artifacts\\Android\\tapai\\3h6yy8y4nwm12.lump.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1733376201349394, "dur":419, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1733376201347403, "dur":2411, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/9xfeincvidzu.o" }}
+,{ "pid":12345, "tid":3, "ts":1733376201349815, "dur":848, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1733376201350675, "dur":2092, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"Library\\Bee\\artifacts\\Android\\tapai\\0j0yuh1qpiio1.lump.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1733376201352779, "dur":229, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1733376201350670, "dur":2339, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/oowxj6nbrno6.o" }}
+,{ "pid":12345, "tid":3, "ts":1733376201353051, "dur":4067, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"Library\\Bee\\artifacts\\Android\\tapai\\5n20g1my180q4.lump.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1733376201357131, "dur":350, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1733376201353047, "dur":4434, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/pzzq75gdmx7t.o" }}
+,{ "pid":12345, "tid":3, "ts":1733376201357483, "dur":59, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1733376201357555, "dur":1083, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"Library\\Bee\\artifacts\\Android\\tapai\\5n20g1my180q0.lump.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1733376201358650, "dur":224, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1733376201357549, "dur":1326, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/x2cxw3lw0r8j.o" }}
+,{ "pid":12345, "tid":3, "ts":1733376201358877, "dur":370, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1733376201359268, "dur":12344, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"Library\\Bee\\artifacts\\Android\\tapai\\5n20g1my180q1.lump.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1733376201371624, "dur":106, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1733376201359263, "dur":12468, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/0lnfybk0w7oe.o" }}
+,{ "pid":12345, "tid":3, "ts":1733376201371784, "dur":1469, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"Library\\Bee\\artifacts\\Android\\tapai\\tnbsoyp7ho4b0.lump.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1733376201373264, "dur":310, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1733376201371780, "dur":1795, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/5fkjgqzq9ukp.o" }}
+,{ "pid":12345, "tid":3, "ts":1733376201373631, "dur":1237, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"Library\\Bee\\artifacts\\Android\\tapai\\a8z6wckizilp0.lump.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1733376201374883, "dur":75, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1733376201373627, "dur":1332, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/w1l17mwtdqbv.o" }}
+,{ "pid":12345, "tid":3, "ts":1733376201375017, "dur":1297, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"Library\\Bee\\artifacts\\Android\\tapai\\oh7llhtza4u86.lump.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1733376201376326, "dur":401, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1733376201375012, "dur":1716, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/ozw7uutigqxt.o" }}
+,{ "pid":12345, "tid":3, "ts":1733376201376793, "dur":1317, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"Library\\Bee\\artifacts\\Android\\tapai\\fgtuop5tyg4v0.lump.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1733376201378123, "dur":153, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1733376201376787, "dur":1491, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/qji7ypdmea7q.o" }}
+,{ "pid":12345, "tid":3, "ts":1733376201378280, "dur":324, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1733376201378644, "dur":1292, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"Library\\Bee\\artifacts\\Android\\tapai\\hyxgyg3iazmm0.lump.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1733376201379950, "dur":22833, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1733376201378639, "dur":24144, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/5qfyvkwuf7ko.o" }}
+,{ "pid":12345, "tid":3, "ts":1733376201402846, "dur":2267, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"Library\\Bee\\artifacts\\Android\\tapai\\kj01oc2pat2i0.lump.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1733376201405406, "dur":178, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\external\\baselib\\Include\\C\\Baselib_Lock.h" }}
+,{ "pid":12345, "tid":3, "ts":1733376201405392, "dur":666, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1733376201402842, "dur":3221, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/0ju6nwdsmndd.o" }}
+,{ "pid":12345, "tid":3, "ts":1733376201406064, "dur":52, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1733376201406129, "dur":773, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"Library\\Bee\\artifacts\\Android\\tapai\\4ghpjtsrv2wj0.lump.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1733376201406913, "dur":114, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1733376201406124, "dur":904, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/3o5mlyb2hp41.o" }}
+,{ "pid":12345, "tid":3, "ts":1733376201407079, "dur":24159, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\external\\bdwgc\\extra\\gc.c" }}
+,{ "pid":12345, "tid":3, "ts":1733376201431276, "dur":329, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1733376201407074, "dur":24532, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/aa4bq/302pifmmcnew.o" }}
+,{ "pid":12345, "tid":3, "ts":1733376201431677, "dur":187, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\os\\ClassLibraryPAL\\brotli\\enc\\compress_fragment.c" }}
+,{ "pid":12345, "tid":3, "ts":1733376201431865, "dur":55, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\os\\ClassLibraryPAL\\brotli\\enc\\compress_fragment.c" }}
+,{ "pid":12345, "tid":3, "ts":1733376201431932, "dur":77, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1733376201431673, "dur":337, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/xs1rhs7thhc0.o" }}
+,{ "pid":12345, "tid":3, "ts":1733376201432076, "dur":139, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\os\\ClassLibraryPAL\\brotli\\enc\\command.c" }}
+,{ "pid":12345, "tid":3, "ts":1733376201432072, "dur":229, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/7p0q7kkhqmjn.o" }}
+,{ "pid":12345, "tid":3, "ts":1733376201432358, "dur":128, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\os\\ClassLibraryPAL\\brotli\\enc\\cluster.c" }}
+,{ "pid":12345, "tid":3, "ts":1733376201432533, "dur":59, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1733376201432353, "dur":239, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/2axay3pqiz2b.o" }}
+,{ "pid":12345, "tid":3, "ts":1733376201432631, "dur":167, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\os\\ClassLibraryPAL\\brotli\\enc\\brotli_bit_stream.c" }}
+,{ "pid":12345, "tid":3, "ts":1733376201432798, "dur":340, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\os\\ClassLibraryPAL\\brotli\\enc\\brotli_bit_stream.c" }}
+,{ "pid":12345, "tid":3, "ts":1733376201433161, "dur":77, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1733376201432628, "dur":612, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/fdtybkbxt31c.o" }}
+,{ "pid":12345, "tid":3, "ts":1733376201433243, "dur":20132, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1733376201453388, "dur":893, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\os\\ClassLibraryPAL\\brotli\\dec\\bit_reader.c" }}
+,{ "pid":12345, "tid":3, "ts":1733376201453384, "dur":976, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/z5niatofkpbg.o" }}
+,{ "pid":12345, "tid":3, "ts":1733376201454362, "dur":888, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1733376201455260, "dur":205, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\os\\Emscripten\\SocketBridge.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1733376201455256, "dur":250, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/u82hzmplwjae.o" }}
+,{ "pid":12345, "tid":3, "ts":1733376201455507, "dur":196, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1733376201455714, "dur":97, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\icalls\\System\\System.Net\\Dns.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1733376201455811, "dur":500, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\icalls\\System\\System.Net\\Dns.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1733376201456321, "dur":158, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1733376201455710, "dur":770, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/bhvpnr5z95kx.o" }}
+,{ "pid":12345, "tid":3, "ts":1733376201456481, "dur":186, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1733376201456678, "dur":108, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\icalls\\mscorlib\\System.Security.Policy\\Evidence.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1733376201456786, "dur":118, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\icalls\\mscorlib\\System.Security.Policy\\Evidence.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1733376201456674, "dur":276, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/eh7q27ub67ru.o" }}
+,{ "pid":12345, "tid":3, "ts":1733376201456996, "dur":119, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\icalls\\mscorlib\\System.Security.Cryptography\\RNGCryptoServiceProvider.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1733376201457120, "dur":246, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\icalls\\mscorlib\\System.Security.Cryptography\\RNGCryptoServiceProvider.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1733376201456992, "dur":431, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/vfdvs2zeqat3.o" }}
+,{ "pid":12345, "tid":3, "ts":1733376201457424, "dur":136, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1733376201457570, "dur":108, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\icalls\\mscorlib\\System.Runtime.Versioning\\VersioningHelper.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1733376201457679, "dur":120, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\icalls\\mscorlib\\System.Runtime.Versioning\\VersioningHelper.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1733376201457566, "dur":280, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/h2wrdatsypea.o" }}
+,{ "pid":12345, "tid":3, "ts":1733376201457883, "dur":94, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\icalls\\mscorlib\\System.Runtime.Remoting.Contexts\\Context.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1733376201457977, "dur":171, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\icalls\\mscorlib\\System.Runtime.Remoting.Contexts\\Context.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1733376201457878, "dur":319, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/b0tbqrg4uadq.o" }}
+,{ "pid":12345, "tid":3, "ts":1733376201458198, "dur":58, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1733376201458256, "dur":125, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/b0tbqrg4uadq.o" }}
+,{ "pid":12345, "tid":3, "ts":1733376201458387, "dur":122, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\icalls\\System\\System.IO\\FileSystemWatcher.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1733376201458509, "dur":113, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\icalls\\System\\System.IO\\FileSystemWatcher.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1733376201458383, "dur":292, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/a1fu0m7ouoxg.o" }}
+,{ "pid":12345, "tid":3, "ts":1733376201458715, "dur":153, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\icalls\\mscorlib\\Mono.Unity\\UnityTls.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1733376201458869, "dur":347, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\icalls\\mscorlib\\Mono.Unity\\UnityTls.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1733376201459225, "dur":301, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1733376201458711, "dur":815, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/sfqagafxobma.o" }}
+,{ "pid":12345, "tid":3, "ts":1733376201459560, "dur":58505, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\external\\zlib\\uncompr.c" }}
+,{ "pid":12345, "tid":3, "ts":1733376201459558, "dur":58538, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/o1sjg/o376zvs99su4.o" }}
+,{ "pid":12345, "tid":3, "ts":1733376201518098, "dur":65, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1733376201518177, "dur":318, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\PlaybackEngines\\AndroidPlayer\\Apk\\res\\values\\ids.xml" }}
+,{ "pid":12345, "tid":3, "ts":1733376201518175, "dur":322, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/PROJECT/UNITY/Android Classifier/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/res/values/ids.xml" }}
+,{ "pid":12345, "tid":3, "ts":1733376201518498, "dur":287, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1733376201518834, "dur":563, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\PlaybackEngines\\AndroidPlayer\\Apk\\res\\mipmap-mdpi\\app_icon.png" }}
+,{ "pid":12345, "tid":3, "ts":1733376201518830, "dur":569, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/PROJECT/UNITY/Android Classifier/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/res/mipmap-mdpi/app_icon.png" }}
+,{ "pid":12345, "tid":3, "ts":1733376201519401, "dur":600, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1733376201520018, "dur":3139, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\PlaybackEngines\\AndroidPlayer\\Apk\\res\\values-v31\\styles.xml" }}
+,{ "pid":12345, "tid":3, "ts":1733376201520015, "dur":3145, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/PROJECT/UNITY/Android Classifier/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/res/values-v31/styles.xml" }}
+,{ "pid":12345, "tid":3, "ts":1733376201523161, "dur":312, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1733376201523494, "dur":763, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\PlaybackEngines\\AndroidPlayer\\Apk\\res\\mipmap-mdpi\\ic_launcher_background.png" }}
+,{ "pid":12345, "tid":3, "ts":1733376201523492, "dur":767, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/PROJECT/UNITY/Android Classifier/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/res/mipmap-mdpi/ic_launcher_background.png" }}
+,{ "pid":12345, "tid":3, "ts":1733376201524261, "dur":346, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1733376201524621, "dur":1317, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\PlaybackEngines\\AndroidPlayer\\Apk\\res\\mipmap-mdpi\\ic_launcher_foreground.png" }}
+,{ "pid":12345, "tid":3, "ts":1733376201524618, "dur":1322, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/PROJECT/UNITY/Android Classifier/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/res/mipmap-mdpi/ic_launcher_foreground.png" }}
+,{ "pid":12345, "tid":3, "ts":1733376201525942, "dur":65, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1733376201526008, "dur":89, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles F:/PROJECT/UNITY/Android Classifier/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/res/mipmap-mdpi/ic_launcher_foreground.png" }}
+,{ "pid":12345, "tid":3, "ts":1733376201526102, "dur":491, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\PlaybackEngines\\AndroidPlayer\\Apk\\res\\values-v21\\styles.xml" }}
+,{ "pid":12345, "tid":3, "ts":1733376201526100, "dur":499, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/PROJECT/UNITY/Android Classifier/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/res/values-v21/styles.xml" }}
+,{ "pid":12345, "tid":3, "ts":1733376201526600, "dur":217, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1733376201526828, "dur":453, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\PlaybackEngines\\AndroidPlayer\\Apk\\res\\values-v28\\styles.xml" }}
+,{ "pid":12345, "tid":3, "ts":1733376201526826, "dur":456, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/PROJECT/UNITY/Android Classifier/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/res/values-v28/styles.xml" }}
+,{ "pid":12345, "tid":3, "ts":1733376201527283, "dur":1104, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1733376201528401, "dur":65, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1733376201528472, "dur":174, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1733376201528653, "dur":154, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1733376201528816, "dur":961, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1733376201529792, "dur":747, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\PlaybackEngines\\AndroidPlayer\\Apk\\res\\values-v30\\freeformwindow.xml" }}
+,{ "pid":12345, "tid":3, "ts":1733376201529788, "dur":754, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/PROJECT/UNITY/Android Classifier/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/res/values-v30/freeformwindow.xml" }}
+,{ "pid":12345, "tid":3, "ts":1733376201530543, "dur":335, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1733376201530892, "dur":360, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\PlaybackEngines\\AndroidPlayer\\Apk\\res\\values\\freeformwindow.xml" }}
+,{ "pid":12345, "tid":3, "ts":1733376201530889, "dur":365, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/PROJECT/UNITY/Android Classifier/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/res/values/freeformwindow.xml" }}
+,{ "pid":12345, "tid":3, "ts":1733376201531309, "dur":1408, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\PlaybackEngines\\AndroidPlayer\\Apk\\res\\mipmap-anydpi-v26\\app_icon.xml" }}
+,{ "pid":12345, "tid":3, "ts":1733376201531307, "dur":1412, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/PROJECT/UNITY/Android Classifier/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/res/mipmap-anydpi-v26/app_icon.xml" }}
+,{ "pid":12345, "tid":3, "ts":1733376201532720, "dur":69, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1733376201532802, "dur":281, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\PlaybackEngines\\AndroidPlayer\\Apk\\res\\mipmap-anydpi-v26\\app_icon_round.xml" }}
+,{ "pid":12345, "tid":3, "ts":1733376201532800, "dur":284, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/PROJECT/UNITY/Android Classifier/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/res/mipmap-anydpi-v26/app_icon_round.xml" }}
+,{ "pid":12345, "tid":3, "ts":1733376201533125, "dur":876, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/PROJECT/UNITY/Android Classifier/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/java/com/unity3d/player/UnityPlayerActivity.java" }}
+,{ "pid":12345, "tid":3, "ts":1733376201534003, "dur":213, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1733376201534227, "dur":138, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/PROJECT/UNITY/Android Classifier/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/libs/unity-classes.jar" }}
+,{ "pid":12345, "tid":3, "ts":1733376201534434, "dur":149, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1733376201534730, "dur":36872, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/PROJECT/UNITY/Android Classifier/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/assets/animals.onnx" }}
+,{ "pid":12345, "tid":3, "ts":1733376201571626, "dur":386, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\PlaybackEngines\\AndroidPlayer\\Apk\\res\\values\\styles.xml" }}
+,{ "pid":12345, "tid":3, "ts":1733376201571623, "dur":392, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/PROJECT/UNITY/Android Classifier/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/res/values/styles.xml" }}
+,{ "pid":12345, "tid":3, "ts":1733376201572195, "dur":11322, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/PROJECT/UNITY/Android Classifier/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/assets/bin/Data/data.unity3d" }}
+,{ "pid":12345, "tid":3, "ts":1733376201583536, "dur":20582790, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1733376201202841, "dur":32681, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1733376201235523, "dur":2057, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1733376201238179, "dur":782, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\build\\deploy\\Unity.IL2CPP.Bee.BuildLogic.AppleTV.dll" }}
+,{ "pid":12345, "tid":4, "ts":1733376201237581, "dur":2502, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1733376201240083, "dur":1524, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1733376201241608, "dur":1591, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1733376201243200, "dur":1838, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1733376201245039, "dur":3437, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\build\\deploy\\mscordbi.dll" }}
+,{ "pid":12345, "tid":4, "ts":1733376201248477, "dur":2449, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\build\\deploy\\mscordaccore_amd64_amd64_6.0.1823.26907.dll" }}
+,{ "pid":12345, "tid":4, "ts":1733376201245039, "dur":7204, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1733376201252320, "dur":548, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\build\\deploy\\api-ms-win-core-localization-l1-2-0.dll" }}
+,{ "pid":12345, "tid":4, "ts":1733376201253589, "dur":7819, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\build\\deploy\\api-ms-win-core-errorhandling-l1-1-0.dll" }}
+,{ "pid":12345, "tid":4, "ts":1733376201263272, "dur":522, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\build\\deploy\\Analytics.Api.Output.xml" }}
+,{ "pid":12345, "tid":4, "ts":1733376201252244, "dur":11551, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1733376201263796, "dur":540, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityaot-linux\\Facades\\System.Reflection.Emit.ILGeneration.dll" }}
+,{ "pid":12345, "tid":4, "ts":1733376201265215, "dur":2259, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityaot-linux\\Facades\\System.Net.Utilities.dll" }}
+,{ "pid":12345, "tid":4, "ts":1733376201267699, "dur":3222, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityaot-linux\\Facades\\System.Net.ServicePoint.dll" }}
+,{ "pid":12345, "tid":4, "ts":1733376201271388, "dur":644, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityaot-linux\\Facades\\System.Net.NetworkInformation.dll" }}
+,{ "pid":12345, "tid":4, "ts":1733376201263796, "dur":9083, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1733376201272880, "dur":29222, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1733376201302119, "dur":550, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1733376201302706, "dur":437, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1733376201303155, "dur":243, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1733376201303412, "dur":208, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1733376201303630, "dur":207, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1733376201303844, "dur":334, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1733376201304186, "dur":176, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1733376201304369, "dur":483, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1733376201304905, "dur":148, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1733376201305064, "dur":324, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1733376201305395, "dur":359, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1733376201305763, "dur":246, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1733376201306017, "dur":1718, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1733376201307797, "dur":200, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1733376201308005, "dur":212, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1733376201308223, "dur":272, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1733376201308503, "dur":268, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1733376201308792, "dur":28746, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"Library\\Bee\\artifacts\\Android\\tapai\\2jc6cn7rg7qk0.lump.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1733376201337551, "dur":430, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1733376201308778, "dur":29204, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/v0k9so5hflld.o" }}
+,{ "pid":12345, "tid":4, "ts":1733376201338041, "dur":2208, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"Library\\Bee\\artifacts\\Android\\tapai\\p90wbpzja7vv0.lump.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1733376201340261, "dur":304, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1733376201338036, "dur":2530, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/c3zq8g8t75i6.o" }}
+,{ "pid":12345, "tid":4, "ts":1733376201340612, "dur":878, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"Library\\Bee\\artifacts\\Android\\tapai\\zxhc0avxvmv80.lump.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1733376201341537, "dur":73, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\il2cpp-runtime-metadata.h" }}
+,{ "pid":12345, "tid":4, "ts":1733376201341503, "dur":138, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1733376201340607, "dur":1035, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/p8chvkyiva4x.o" }}
+,{ "pid":12345, "tid":4, "ts":1733376201341693, "dur":1207, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"Library\\Bee\\artifacts\\Android\\tapai\\i4eg6wpaa9av0.lump.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1733376201342913, "dur":320, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1733376201341688, "dur":1546, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/sxnndrhs4rj1.o" }}
+,{ "pid":12345, "tid":4, "ts":1733376201343236, "dur":611, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1733376201343859, "dur":531, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"Library\\Bee\\artifacts\\Android\\tapai\\wpwk3j1zym6l0.lump.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1733376201344402, "dur":50, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1733376201343854, "dur":598, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/jumie5pvdoy3.o" }}
+,{ "pid":12345, "tid":4, "ts":1733376201344453, "dur":191, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1733376201344655, "dur":4500, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"Library\\Bee\\artifacts\\Android\\tapai\\3h6yy8y4nwm11.lump.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1733376201349167, "dur":325, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1733376201344651, "dur":4842, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/6e5vgfermxi0.o" }}
+,{ "pid":12345, "tid":4, "ts":1733376201349494, "dur":1146, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1733376201350657, "dur":1249, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"Library\\Bee\\artifacts\\Android\\tapai\\0j0yuh1qpiio2.lump.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1733376201351918, "dur":117, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1733376201350652, "dur":1383, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/7zn8pkogohax.o" }}
+,{ "pid":12345, "tid":4, "ts":1733376201352079, "dur":968, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"Library\\Bee\\artifacts\\Android\\tapai\\0j0yuh1qpiio0.lump.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1733376201353058, "dur":90, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1733376201352074, "dur":1075, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/l5lfiyp7u77b.o" }}
+,{ "pid":12345, "tid":4, "ts":1733376201353193, "dur":1348, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"Library\\Bee\\artifacts\\Android\\tapai\\2r94yugupbl20.lump.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1733376201354554, "dur":455, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1733376201353189, "dur":1821, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/1fr2fldewyfe.o" }}
+,{ "pid":12345, "tid":4, "ts":1733376201355054, "dur":4631, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"Library\\Bee\\artifacts\\Android\\tapai\\5n20g1my180q3.lump.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1733376201359698, "dur":299, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1733376201355049, "dur":4949, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/mgp85xi9phrz.o" }}
+,{ "pid":12345, "tid":4, "ts":1733376201360052, "dur":2029, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"Library\\Bee\\artifacts\\Android\\tapai\\tkwlwbuwl3al2.lump.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1733376201362097, "dur":217, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1733376201360047, "dur":2268, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/5lncdt64cldi.o" }}
+,{ "pid":12345, "tid":4, "ts":1733376201362316, "dur":855, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1733376201363188, "dur":1888, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"Library\\Bee\\artifacts\\Android\\tapai\\tkwlwbuwl3al0.lump.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1733376201365087, "dur":181, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1733376201363182, "dur":2087, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/zj2badaxkpgt.o" }}
+,{ "pid":12345, "tid":4, "ts":1733376201365316, "dur":383, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"Library\\Bee\\artifacts\\Android\\tapai\\adha17uqanpn0.lump.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1733376201365312, "dur":441, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/1ehb9o6mnb50.o" }}
+,{ "pid":12345, "tid":4, "ts":1733376201365754, "dur":209, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1733376201365979, "dur":340, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"Library\\Bee\\artifacts\\Android\\tapai\\tt8ekx12sa290.lump.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1733376201366330, "dur":183, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1733376201365974, "dur":539, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/cq3c6fdmxy15.o" }}
+,{ "pid":12345, "tid":4, "ts":1733376201366514, "dur":317, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1733376201366844, "dur":1031, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"Library\\Bee\\artifacts\\Android\\tapai\\tt8ekx12sa292.lump.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1733376201367888, "dur":216, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1733376201366839, "dur":1265, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/isod9v9tpuyu.o" }}
+,{ "pid":12345, "tid":4, "ts":1733376201368153, "dur":3648, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"Library\\Bee\\artifacts\\Android\\tapai\\a69e9pau3qp90.lump.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1733376201371813, "dur":90, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1733376201368148, "dur":3756, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/fus8fc2pri1x.o" }}
+,{ "pid":12345, "tid":4, "ts":1733376201371952, "dur":54342, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"Library\\Bee\\artifacts\\Android\\tapai\\a8z6wckizilp1.lump.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1733376201426315, "dur":258, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\os\\Directory.h" }}
+,{ "pid":12345, "tid":4, "ts":1733376201426634, "dur":759, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\external\\baselib\\Include\\C\\Internal\\Baselib_CappedSemaphore_SemaphoreBased.inl.h" }}
+,{ "pid":12345, "tid":4, "ts":1733376201427422, "dur":954, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\external\\baselib\\Include\\Internal\\Assert.h" }}
+,{ "pid":12345, "tid":4, "ts":1733376201426309, "dur":7142, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1733376201371948, "dur":61506, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/fddce1wyakxl.o" }}
+,{ "pid":12345, "tid":4, "ts":1733376201433456, "dur":17424, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1733376201450893, "dur":215, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\os\\ClassLibraryPAL\\brotli\\enc\\backward_references.c" }}
+,{ "pid":12345, "tid":4, "ts":1733376201451109, "dur":1868, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\os\\ClassLibraryPAL\\brotli\\enc\\backward_references.c" }}
+,{ "pid":12345, "tid":4, "ts":1733376201453089, "dur":116, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1733376201450889, "dur":2328, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/0tl2tl9uobf7.o" }}
+,{ "pid":12345, "tid":4, "ts":1733376201453218, "dur":311, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1733376201453542, "dur":184, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\os\\ClassLibraryPAL\\brotli\\common\\transform.c" }}
+,{ "pid":12345, "tid":4, "ts":1733376201453537, "dur":225, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/pxfzzhp655z5.o" }}
+,{ "pid":12345, "tid":4, "ts":1733376201453763, "dur":66, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1733376201453844, "dur":224, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\os\\ClassLibraryPAL\\brotli\\common\\context.c" }}
+,{ "pid":12345, "tid":4, "ts":1733376201453839, "dur":256, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/w0bpw30pbous.o" }}
+,{ "pid":12345, "tid":4, "ts":1733376201454096, "dur":313, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1733376201454423, "dur":135, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\os\\ClassLibraryPAL\\brotli\\common\\constants.c" }}
+,{ "pid":12345, "tid":4, "ts":1733376201454419, "dur":184, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/g41fyc495ttp.o" }}
+,{ "pid":12345, "tid":4, "ts":1733376201454647, "dur":136, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\vm-utils\\icalls\\mscorlib\\System.Threading\\Interlocked.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1733376201454783, "dur":121, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\vm-utils\\icalls\\mscorlib\\System.Threading\\Interlocked.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1733376201454914, "dur":164, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1733376201454643, "dur":436, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/f09ddn1n3me9.o" }}
+,{ "pid":12345, "tid":4, "ts":1733376201455079, "dur":123, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1733376201455218, "dur":248, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\os\\WindowsGames\\Win32ApiWindowsGamesEmulation.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1733376201455514, "dur":60, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1733376201455214, "dur":360, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/vupl009nw7l2.o" }}
+,{ "pid":12345, "tid":4, "ts":1733376201455672, "dur":98, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\icalls\\System\\System.Threading\\Semaphore.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1733376201455771, "dur":105, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\icalls\\System\\System.Threading\\Semaphore.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1733376201455608, "dur":320, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/tqlty289ez04.o" }}
+,{ "pid":12345, "tid":4, "ts":1733376201455929, "dur":272, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1733376201456211, "dur":108, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\icalls\\System\\Mono.Net.Security\\MonoTlsProviderFactory.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1733376201456324, "dur":105, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\icalls\\System\\Mono.Net.Security\\MonoTlsProviderFactory.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1733376201456207, "dur":248, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/zypryhgnc6a1.o" }}
+,{ "pid":12345, "tid":4, "ts":1733376201456456, "dur":116, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1733376201456584, "dur":355, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\icalls\\System.Core\\System.IO.MemoryMappedFiles\\MemoryMapImpl.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1733376201456940, "dur":320, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\icalls\\System.Core\\System.IO.MemoryMappedFiles\\MemoryMapImpl.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1733376201457270, "dur":227, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1733376201456580, "dur":918, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/o58lo6qaxla5.o" }}
+,{ "pid":12345, "tid":4, "ts":1733376201457499, "dur":160, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1733376201457669, "dur":118, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\icalls\\mscorlib\\System.Runtime.Remoting\\RemotingServices.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1733376201457788, "dur":129, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\icalls\\mscorlib\\System.Runtime.Remoting\\RemotingServices.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1733376201457665, "dur":297, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/1pa2qt03l9cm.o" }}
+,{ "pid":12345, "tid":4, "ts":1733376201458010, "dur":125, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\icalls\\mscorlib\\System.Runtime.Remoting.Activation\\ActivationServices.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1733376201458136, "dur":295, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\icalls\\mscorlib\\System.Runtime.Remoting.Activation\\ActivationServices.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1733376201458442, "dur":290, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1733376201458006, "dur":727, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/8ewcfzohbg5j.o" }}
+,{ "pid":12345, "tid":4, "ts":1733376201458830, "dur":109, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\icalls\\mscorlib\\Mono.Security.Cryptography\\KeyPairPersistence.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1733376201458940, "dur":112, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\icalls\\mscorlib\\Mono.Security.Cryptography\\KeyPairPersistence.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1733376201458770, "dur":308, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/3f94p2doo021.o" }}
+,{ "pid":12345, "tid":4, "ts":1733376201459079, "dur":222, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1733376201459311, "dur":82, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\icalls\\mscorlib\\Interop.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1733376201459393, "dur":98, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\libil2cpp\\icalls\\mscorlib\\Interop.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1733376201459307, "dur":210, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/tapai/605tp5wkn8zd.o" }}
+,{ "pid":12345, "tid":4, "ts":1733376201459555, "dur":155, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\external\\zlib\\zutil.c" }}
+,{ "pid":12345, "tid":4, "ts":1733376201459710, "dur":304, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\external\\zlib\\zutil.c" }}
+,{ "pid":12345, "tid":4, "ts":1733376201459552, "dur":483, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/o1sjg/2sdors9g2gcn.o" }}
+,{ "pid":12345, "tid":4, "ts":1733376201460073, "dur":236, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\external\\zlib\\trees.c" }}
+,{ "pid":12345, "tid":4, "ts":1733376201460310, "dur":5671, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\external\\zlib\\trees.c" }}
+,{ "pid":12345, "tid":4, "ts":1733376201460071, "dur":5941, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/o1sjg/rl8tdkq5t5ym.o" }}
+,{ "pid":12345, "tid":4, "ts":1733376201466013, "dur":72, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1733376201466100, "dur":283, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\external\\zlib\\inflate.c" }}
+,{ "pid":12345, "tid":4, "ts":1733376201466384, "dur":533, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\external\\zlib\\inflate.c" }}
+,{ "pid":12345, "tid":4, "ts":1733376201466097, "dur":845, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/o1sjg/17koxib6dqx8.o" }}
+,{ "pid":12345, "tid":4, "ts":1733376201466943, "dur":335, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1733376201467288, "dur":85, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\external\\zlib\\gzwrite.c" }}
+,{ "pid":12345, "tid":4, "ts":1733376201467285, "dur":114, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/o1sjg/eykp0vh7o2fq.o" }}
+,{ "pid":12345, "tid":4, "ts":1733376201467436, "dur":71, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\external\\zlib\\gzlib.c" }}
+,{ "pid":12345, "tid":4, "ts":1733376201467433, "dur":93, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/o1sjg/06s5jit7vra9.o" }}
+,{ "pid":12345, "tid":4, "ts":1733376201467527, "dur":128, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1733376201467663, "dur":355, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\external\\zlib\\deflate.c" }}
+,{ "pid":12345, "tid":4, "ts":1733376201467660, "dur":382, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/o1sjg/5ng6g030sm45.o" }}
+,{ "pid":12345, "tid":4, "ts":1733376201468089, "dur":289, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\il2cpp\\external\\bdwgc\\extra\\krait_signal_handler.c" }}
+,{ "pid":12345, "tid":4, "ts":1733376201468086, "dur":310, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/aa4bq/gyu1yspx1qlk.o" }}
+,{ "pid":12345, "tid":4, "ts":1733376201468443, "dur":743, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1733376201469204, "dur":337, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1733376201469599, "dur":1708, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1733376201471339, "dur":209, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1733376201471555, "dur":186, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1733376201471748, "dur":299, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1733376201472055, "dur":305, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1733376201472436, "dur":167, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1733376201472613, "dur":120, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1733376201472863, "dur":192, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1733376201473063, "dur":122, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1733376201473283, "dur":227, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1733376201473516, "dur":1840, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1733376201475964, "dur":617, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/build.gradle_4q23.info" }}
+,{ "pid":12345, "tid":4, "ts":1733376201477034, "dur":380, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/LauncherManifestDiag.txt_zvqu.info" }}
+,{ "pid":12345, "tid":4, "ts":1733376201477700, "dur":1256, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/unity_app_guid_5tox.info" }}
+,{ "pid":12345, "tid":4, "ts":1733376201478959, "dur":808, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/PROJECT/UNITY/Android Classifier/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/jniLibs/armeabi-v7a/libmain.so" }}
+,{ "pid":12345, "tid":4, "ts":1733376201479768, "dur":12184, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1733376201491963, "dur":72, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ActionGenerateProjectFiles F:/PROJECT/UNITY/Android Classifier/Library/Bee/Android/Prj/IL2CPP/Gradle/build.gradle (+7 others)" }}
+,{ "pid":12345, "tid":4, "ts":1733376201501447, "dur":1391297, "ph":"X", "name": "ActionGenerateProjectFiles",  "args": { "detail":"F:/PROJECT/UNITY/Android Classifier/Library/Bee/Android/Prj/IL2CPP/Gradle/build.gradle (+7 others)" }}
+,{ "pid":12345, "tid":4, "ts":1733376202893339, "dur":19272979, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1733376222185914, "dur":3808, "ph":"X", "name": "ProfilerWriteOutput" }
+,
