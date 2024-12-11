@@ -1,6 +1,6 @@
 <h1 color:"red">CLASSIFICATION VIDEO AND IMAGE APP WITH UNITY</h1>
 
-summary:
+Summary:
 <ul>
   <li>Collect photo or video data</li>
   <li>Trainning models</li>
